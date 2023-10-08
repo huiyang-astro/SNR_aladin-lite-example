@@ -14,10 +14,10 @@ Image Opacity: <br/> <input id="slider" type="range" value=1 min=0 max=1 step=0.
 <div id="aladin-lite-div" style="width:840px;height:600px"></div>
 
 Base 
-<input id="DSS" type="radio" name="survey" value="P/DSS2/Color" checked><label for="DSS">Optical (DSS2)  <label>
+<input id="DSS" type="radio" name="survey" value="P/DSS2/Color"><label for="DSS">Optical (DSS2)  <label>
 <input id="2MASS" type="radio" name="survey" value="P/2MASS/Color"><label for="2MASS">2MASS<label>
 <input id="WISE" type="radio" name="survey" value="WISE"><label for="WISE">AllWISE<label>
-<input id="VLASS1.1" type="radio" name="survey" value="VLASS1.1"><label for="VLASS1.1">VLASS1.1<label>
+<input id="VLASS1.1" type="radio" name="survey" value="VLASS1.1" checked><label for="VLASS1.1">VLASS1.1<label>
 <input id="VLASS1.2" type="radio" name="survey" value="VLASS1.2"><label for="VLASS1.2">VLASS1.2<label>
 <input id="VLASS2.1" type="radio" name="survey" value="VLASS2.1"><label for="VLASS2.1">VLASS2.1<label>
 <input id="VLASS2.2" type="radio" name="survey" value="VLASS2.2"><label for="VLASS2.2">VLASS2.2<label>
@@ -85,8 +85,6 @@ Base
         aladin.setOverlayImageLayer('CDS/P/NVSS');
         // aladin.getOverlayImageLayer().setAlpha(0.5);
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
-
         aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.2v2/Quicklook/');
 
         aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.1/Quicklook/');
@@ -100,6 +98,10 @@ Base
         aladin.setOverlayImageLayer('JAXA/P/SWIFT/BAT/Image');
         
         aladin.setOverlayImageLayer('cxc.harvard.edu/P/cda/hips/allsky/rgb');
+
+        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
+
+        
         // // aladin.getOverlayImageLayer().setAlpha(0.5);
         
 
