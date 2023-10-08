@@ -1,0 +1,159 @@
+
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+<script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+
+Image Opacity: <br/> <input id="slider" type="range" value=1 min=0 max=1 step=0.05 ; style="width:120px;height:5px;line-height:0%">
+<br/>
+<br/>
+<div id="aladin-lite-div" style="width:840px;height:600px"></div>
+
+Base 
+<input id="DSS" type="radio" name="survey" value="P/DSS2/Color"><label for="DSS">Optical (DSS2)  <label>
+<input id="2MASS" type="radio" name="survey" value="P/2MASS/Color"><label for="2MASS">2MASS<label>
+<input id="WISE" type="radio" name="survey" value="WISE"><label for="WISE">AllWISE<label>
+<input id="VLASS1.1" type="radio" name="survey" value="VLASS1.1" checked><label for="VLASS1.1">VLASS1.1<label>
+<input id="VLASS1.2" type="radio" name="survey" value="VLASS1.2"><label for="VLASS1.2">VLASS1.2<label>
+<input id="VLASS2.1" type="radio" name="survey" value="VLASS2.1"><label for="VLASS2.1">VLASS2.1<label>
+<input id="VLASS2.2" type="radio" name="survey" value="VLASS2.2"><label for="VLASS2.2">VLASS2.2<label>
+<input id="VLASS3.1" type="radio" name="survey" value="VLASS3.1"><label for="VLASS3.1">VLASS3.1 (underway)<label>
+<input id="VLASS_Epoch1" type="radio" name="survey" value="VLASS_Epoch1"><label for="VLASS_Epoch1">VLASS Epoch1<label>
+<input id="VCSS1" type="radio" name="survey" value="VCSS1"><label for="VCSS1">VCSS1<label>
+<input id="NVSS" type="radio" name="survey" value="NVSS"><label for="NVSS">NVSS<label>
+<input id="RACS-m" type="radio" name="survey" value="RACS-m"><label for="RACS-m">RACS-m<label>
+<input id="RACS-l" type="radio" name="survey" value="RACS-l"><label for="RACS-l">RACS-l<label>
+<br/> Overlay 
+<input id="XMM" type="radio" name="survey2" value="XMM"><label for="XMM">XMM<label>
+<input id="CXO" type="radio" name="survey2" value="CXO" checked><label for="CXO">CXO<label>
+<input id="BAT" type="radio" name="survey2" value="BAT"><label for="BAT">Swift BAT<label>
+<input id="Fermi" type="radio" name="survey2" value="Fermi"><label for="Fermi">Fermi<label>
+<input id="HGPS" type="radio" name="survey2" value="HGPS"><label for="HGPS">HESS GPS<label>
+    
+
+<div id='aladin-statsDiv'></div>
+
+<script type="text/javascript" src="./aladin.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+    let aladin;
+    A.init.then(() => {
+        aladin = A.aladin('#aladin-lite-div', {target: "0 0", cooFrame: "gal"});
+        
+        var callback = function(ra, dec, fov) {
+            aladin.addCatalog(A.catalogFromSimbad( {ra: ra, dec: dec} , 1 , {shape: 'circle', color: '#5d5', onClick: 'showTable'}));
+            // we must return true, so that the default action (set view to center of image) is performed
+            return true;
+        }
+
+        $("#slider").on('input', function() {
+            const opacity = $(this).val();
+            aladin.getOverlayImageLayer().setOpacity(opacity);
+        });
+        aladin.setBaseImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
+
+        // //let fits = aladin.displayFITS('http://goldmine.mib.infn.it/data//B/fits/A04_VC1316_ooooog.fits', 'overlay');
+        // let jpg = aladin.displayJPG(
+        //     // the JPG to transform to HiPS
+        //     'https://noirlab.edu/public/media/archives/images/large/noirlab1912a.jpg',
+        //     //'https://www.mpe.mpg.de/7461845/original-1592580374.webp?t=eyJ3aWR0aCI6MTQwMCwiZmlsZV9leHRlbnNpb24iOiJ3ZWJwIiwicXVhbGl0eSI6ODYsIm9ial9pZCI6NzQ2MTg0NX0%3D--62fbec450be58711b7148b26c29805dddfa450f0',
+        //     // no options
+        //     {},
+        //     // A callback fn once the overlay is set
+        //     callback
+        // );
+
+        // aladin = A.aladin("#aladin-lite-div", {survey: "https://cdaftp.cfa.harvard.edu/cxc-hips", name:"Chandra",  target: target, fov: fov });
+        // //aladin.toggleFullscreen();
+
+        
+        // aladin.setOverlayImageLayer('CDS/P/HGPS/Flux');
+        // // aladin.getOverlayImageLayer().setAlpha(0.5);
+
+        // aladin.setOverlayImageLayer('CSIRO/P/RACS/low/I');
+        // // // aladin.getOverlayImageLayer().setAlpha(0.5);
+
+        // // aladin.setOverlayImageLayer('CSIRO/P/RACS/mid/I');
+        // aladin.setOverlayImageLayer('https://casda.csiro.au/hips/RACS/mid/I/');
+        
+        // // aladin.getOverlayImageLayer().setAlpha(0.5);
+
+        // aladin.setOverlayImageLayer('CDS/P/NVSS');
+        // // aladin.getOverlayImageLayer().setAlpha(0.5);
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.2v2/Quicklook/');
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.1/Quicklook/');
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.2/Quicklook/');
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS3.1/Quicklook/');
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS_Epoch1/Quicklook/');
+        
+        // aladin.setOverlayImageLayer('JAXA/P/SWIFT/BAT/Image');
+        
+        aladin.setOverlayImageLayer('cxc.harvard.edu/P/cda/hips/allsky/rgb');
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
+
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VCSS1/Images_vcss1_HiPS/');
+
+        // // aladin.getOverlayImageLayer().setAlpha(0.5);
+        
+
+        $('input[name=survey]').change(function() {
+            let surveyName = $(this).val();
+            if (surveyName === "P/2MASS/Color") {
+                aladin.setBaseImageLayer("CDS/P/2MASS/color");
+            } else if (surveyName === "P/DSS2/Color") {
+                aladin.setBaseImageLayer("CDS/P/DSS2/color");
+            } else if (surveyName === "WISE") {
+                aladin.setBaseImageLayer("CDS/P/allWISE/color");
+            } else if (surveyName === "RACS-m") {
+                aladin.setBaseImageLayer("https://casda.csiro.au/hips/RACS/mid/I/");
+                // aladin.setBaseImageLayer("CSIRO/P/RACS/mid/I");
+            } else if (surveyName === "RACS-l") {
+                aladin.setBaseImageLayer("CSIRO/P/RACS/low/I");
+            } else if (surveyName === "VLASS1.1") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/");
+            } else if (surveyName === "VLASS1.2") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VLASS1.2v2/Quicklook/");
+            } else if (surveyName === "VLASS2.1") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VLASS2.1/Quicklook/");
+            } else if (surveyName === "VLASS2.2") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VLASS2.2/Quicklook/");
+            } else if (surveyName === "VLASS3.1") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VLASS3.1/Quicklook/");
+            } else if (surveyName === "VLASS_Epoch1") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VLASS_Epoch1/Quicklook/");
+            } else if (surveyName === "VCSS1") {
+                aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VCSS1/Images_vcss1_HiPS/");
+            } else if (surveyName === "NVSS") {
+                aladin.setBaseImageLayer("CDS/P/NVSS");
+            } 
+        });
+
+        $('input[name=survey2]').change(function() {
+            let surveyName = $(this).val();
+            if (surveyName === "XMM") {
+                aladin.setOverlayImageLayer("xcatdb/P/XMM/PN/color");
+            } else if (surveyName === "CXO") {
+                aladin.setOverlayImageLayer("cxc.harvard.edu/P/cda/hips/allsky/rgb");
+            } else if (surveyName === "BAT") {
+                aladin.setOverlayImageLayer("JAXA/P/SWIFT/BAT/Image");
+            } else if (surveyName === "Fermi") {
+                aladin.setOverlayImageLayer("CDS/P/Fermi/color");
+            } else if (surveyName === "HGPS") {
+                aladin.setOverlayImageLayer("CDS/P/HGPS/Flux");
+            } 
+        });
+
+    });
+</script>
+</body>
+</html>
