@@ -27,7 +27,7 @@ Base
 <input id="NVSS" type="radio" name="survey" value="NVSS"><label for="NVSS">NVSS<label>
 <input id="RACS-m" type="radio" name="survey" value="RACS-m"><label for="RACS-m">RACS-m<label>
 <input id="RACS-l" type="radio" name="survey" value="RACS-l"><label for="RACS-l">RACS-l<label>
-<br> Overlay 
+<br/> Overlay 
 <input id="XMM" type="radio" name="survey2" value="XMM"><label for="XMM">XMM<label>
 <input id="CXO" type="radio" name="survey2" value="CXO" checked><label for="CXO">CXO<label>
 <input id="BAT" type="radio" name="survey2" value="BAT"><label for="BAT">Swift BAT<label>
@@ -54,7 +54,7 @@ Base
             const opacity = $(this).val();
             aladin.getOverlayImageLayer().setOpacity(opacity);
         });
-        aladin.setBaseImageLayer('CDS/P/DSS2/color');
+        aladin.setBaseImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
 
         // //let fits = aladin.displayFITS('http://goldmine.mib.infn.it/data//B/fits/A04_VC1316_ooooog.fits', 'overlay');
         // let jpg = aladin.displayJPG(
@@ -71,37 +71,38 @@ Base
         // //aladin.toggleFullscreen();
 
         
-        aladin.setOverlayImageLayer('CDS/P/HGPS/Flux');
-        // aladin.getOverlayImageLayer().setAlpha(0.5);
-
-        aladin.setOverlayImageLayer('CSIRO/P/RACS/low/I');
+        // aladin.setOverlayImageLayer('CDS/P/HGPS/Flux');
         // // aladin.getOverlayImageLayer().setAlpha(0.5);
 
-        // aladin.setOverlayImageLayer('CSIRO/P/RACS/mid/I');
-        aladin.setOverlayImageLayer('https://casda.csiro.au/hips/RACS/mid/I/');
+        // aladin.setOverlayImageLayer('CSIRO/P/RACS/low/I');
+        // // // aladin.getOverlayImageLayer().setAlpha(0.5);
+
+        // // aladin.setOverlayImageLayer('CSIRO/P/RACS/mid/I');
+        // aladin.setOverlayImageLayer('https://casda.csiro.au/hips/RACS/mid/I/');
         
         // // aladin.getOverlayImageLayer().setAlpha(0.5);
 
-        aladin.setOverlayImageLayer('CDS/P/NVSS');
-        // aladin.getOverlayImageLayer().setAlpha(0.5);
+        // aladin.setOverlayImageLayer('CDS/P/NVSS');
+        // // aladin.getOverlayImageLayer().setAlpha(0.5);
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.2v2/Quicklook/');
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.2v2/Quicklook/');
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.1/Quicklook/');
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.1/Quicklook/');
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.2/Quicklook/');
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS2.2/Quicklook/');
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS3.1/Quicklook/');
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS3.1/Quicklook/');
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS_Epoch1/Quicklook/');
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS_Epoch1/Quicklook/');
         
-        aladin.setOverlayImageLayer('JAXA/P/SWIFT/BAT/Image');
+        // aladin.setOverlayImageLayer('JAXA/P/SWIFT/BAT/Image');
         
         aladin.setOverlayImageLayer('cxc.harvard.edu/P/cda/hips/allsky/rgb');
 
-        aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/');
 
-        
+        // aladin.setOverlayImageLayer('http://archive-new.nrao.edu/vlass/HiPS/VCSS1/Images_vcss1_HiPS/');
+
         // // aladin.getOverlayImageLayer().setAlpha(0.5);
         
 
