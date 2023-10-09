@@ -22,12 +22,16 @@ Base
 <input id="VLASS2.1" type="radio" name="survey" value="VLASS2.1"><label for="VLASS2.1">VLASS2.1<label>
 <input id="VLASS2.2" type="radio" name="survey" value="VLASS2.2"><label for="VLASS2.2">VLASS2.2<label>
 <input id="VLASS3.1" type="radio" name="survey" value="VLASS3.1"><label for="VLASS3.1">VLASS3.1 (underway)<label>
+<br/>
 <input id="VLASS_Epoch1" type="radio" name="survey" value="VLASS_Epoch1"><label for="VLASS_Epoch1">VLASS Epoch1<label>
 <input id="VCSS1" type="radio" name="survey" value="VCSS1"><label for="VCSS1">VCSS1<label>
 <input id="NVSS" type="radio" name="survey" value="NVSS"><label for="NVSS">NVSS<label>
 <input id="RACS-m" type="radio" name="survey" value="RACS-m"><label for="RACS-m">RACS-m<label>
 <input id="RACS-l" type="radio" name="survey" value="RACS-l"><label for="RACS-l">RACS-l<label>
-<br/> Overlay 
+<input id="CGPS-VGPS CONT" type="radio" name="survey" value="CGPS-VGPS CONT"><label for="CGPS-VGPS CONT">CGPS-VGPS CONT<label>
+<input id="SUMSS" type="radio" name="survey" value="SUMSS"><label for="SUMSS">SUMSS<label>
+
+<br/> Overlay   
 <input id="XMM" type="radio" name="survey2" value="XMM"><label for="XMM">XMM<label>
 <input id="CXO" type="radio" name="survey2" value="CXO" checked><label for="CXO">CXO<label>
 <input id="RASS" type="radio" name="survey2" value="RASS"><label for="RASS">RASS<label>
@@ -136,6 +140,11 @@ Base
                 aladin.setBaseImageLayer("http://archive-new.nrao.edu/vlass/HiPS/VCSS1/Images_vcss1_HiPS/");
             } else if (surveyName === "NVSS") {
                 aladin.setBaseImageLayer("CDS/P/NVSS");
+            } else if (surveyName === "CGPS-VGPS CONT") {
+                aladin.setBaseImageLayer("http://cade.irap.omp.eu/documents/Ancillary/4Aladin/CGPS_VGPS_CONT/");
+            } else if (surveyName === "SUMSS") {
+                aladin.setBaseImageLayer("https://alasky.cds.unistra.fr/SUMSS/");
+
             } 
         });
 
@@ -156,25 +165,32 @@ Base
             } 
         });
 
-        var hips = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/SWIFT-XRT_Catalogue/', {onClick: 'showPopup',  sourceSize: 10,  name: 'XRT',shape:'circle', color:'red'});
-         aladin.addCatalog(hips);
-
-         var hips2 = A.catalogHiPS('https://axel.u-strasbg.fr/HiPSCatService/Simbad', {onClick: 'showTable', name: 'Simbad'});
+        var hips2 = A.catalogHiPS('https://axel.u-strasbg.fr/HiPSCatService/Simbad', {onClick: 'showTable', name: 'Simbad',sourceSize: 5});
         aladin.addCatalog(hips2);
 
-        var hips3 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/BlackCAT.vot', {onClick: 'showPopup', sourceSize: 10,  name:'BlackCAT',shape:'circle', color:'orange'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+        var hips = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/SWIFT-XRT_Catalogue/', {onClick: 'showPopup',  sourceSize: 10,  name: 'XRT',shape:'circle'});
+         aladin.addCatalog(hips);
+
+         // var hips5 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/4XMM-DR13.vot', {onClick: 'showPopup', sourceSize: 10,  name:'XMM',shape:'circle', color:'orange'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+         var hips5 = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/XMM-EPIC_Catalogue/', {onClick: 'showTable', sourceSize: 10, name: 'XMM',shape:'circle' });
+         aladin.addCatalog(hips5);
+
+         var hips6 = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/CHANDRA_Catalogue/', {onClick: 'showTable', sourceSize: 10, name: 'CSC',shape:'circle',color:'white' });
+        aladin.addCatalog(hips6);
+
+        var hips4 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/4FGL-DR4.vot', {onClick: 'showPopup', sourceSize: 10,  name:'4FGL',shape:'circle'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+         aladin.addCatalog(hips4);
+
+        var hips9 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/ATNF_NS.vot', {onClick: 'showPopup', sourceSize: 10,  name:'ATNF'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+         aladin.addCatalog(hips9);
+
+        var hips3 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/BlackCAT.vot', {onClick: 'showPopup', sourceSize: 10,  name:'BlackCAT'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
          aladin.addCatalog(hips3);
         
-         var hips4 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/4FGL-DR4.vot', {onClick: 'showPopup', sourceSize: 10,  name:'4FGL',shape:'circle', color:'orange'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-         aladin.addCatalog(hips4);
-        
-
-        var hips9 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/ATNF_NS.vot', {onClick: 'showPopup', sourceSize: 10,  name:'ATNF',shape:'circle', color:'magenta'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-         aladin.addCatalog(hips9);
-        
-        var hips10 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/TeVCat.vot', {onClick: 'showPopup', sourceSize: 10,  name:'TeVCat',shape:'circle', color:'gold'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+        var hips10 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/TeVCat.vot', {onClick: 'showPopup', sourceSize: 10,  name:'TeVCat'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
           aladin.addCatalog(hips10);
 
+          // 'gold', 'orange', 'magenta', 'red', 'blue'
 
     });
 </script>
