@@ -156,11 +156,17 @@ Base
             } 
         });
 
-        var hips9 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/ATNF_NS.vot', {onClick: 'showPopup', sourceSize: 20,  name:'ATNF',shape:'plus', color:'magenta'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+        var hips = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/SWIFT-XRT_Catalogue/', {onClick: 'showPopup',  sourceSize: 10,  name: 'XRT',shape:'circle', color:'red'});
+         aladin.addCatalog(hips);
+
+         var hips2 = A.catalogHiPS('https://axel.u-strasbg.fr/HiPSCatService/Simbad', {onClick: 'showTable', name: 'Simbad'});
+        aladin.addCatalog(hips2);
+
+        var hips9 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/ATNF_NS.vot', {onClick: 'showPopup', sourceSize: 10,  name:'ATNF',shape:'circle', color:'magenta'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
          aladin.addCatalog(hips9);
         
-        var hips10 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/TeVCat.vot', {onClick: 'showPopup', sourceSize: 20,  name:'TeVCat',shape:'plus', color:'gold'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-         aladin.addCatalog(hips10);
+        var hips10 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/TeVCat.vot', {onClick: 'showPopup', sourceSize: 10,  name:'TeVCat',shape:'circle', color:'gold'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
+          aladin.addCatalog(hips10);
 
 
     });
