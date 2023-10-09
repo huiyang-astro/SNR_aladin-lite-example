@@ -15,8 +15,8 @@
     <TABLEDATA>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G0.0+0.0.html"&gt;G0.0+0.0&lt;/A&gt;</TD>
-      <TD>17 45 44</TD>
-      <TD>-29 00</TD>
+      <TD>17:45:44</TD>
+      <TD>-29:00</TD>
       <TD>3.5x2.5</TD>
       <TD>S</TD>
       <TD>100?</TD>
@@ -24,8 +24,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G0.3+0.0.html"&gt;G0.3+0.0&lt;/A&gt;</TD>
-      <TD>17 46 15</TD>
-      <TD>-28 38</TD>
+      <TD>17:46:15</TD>
+      <TD>-28:38</TD>
       <TD>15x8</TD>
       <TD>S</TD>
       <TD>22</TD>
@@ -33,8 +33,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G0.9+0.1.html"&gt;G0.9+0.1&lt;/A&gt;</TD>
-      <TD>17 47 21</TD>
-      <TD>-28 09</TD>
+      <TD>17:47:21</TD>
+      <TD>-28:09</TD>
       <TD>8</TD>
       <TD>C</TD>
       <TD>18?</TD>
@@ -42,8 +42,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G1.0-0.1.html"&gt;G1.0-0.1&lt;/A&gt;</TD>
-      <TD>17 48 30</TD>
-      <TD>-28 09</TD>
+      <TD>17:48:30</TD>
+      <TD>-28:09</TD>
       <TD>8</TD>
       <TD>S</TD>
       <TD>15</TD>
@@ -51,8 +51,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G1.4-0.1.html"&gt;G1.4-0.1&lt;/A&gt;</TD>
-      <TD>17 49 39</TD>
-      <TD>-27 46</TD>
+      <TD>17:49:39</TD>
+      <TD>-27:46</TD>
       <TD>10</TD>
       <TD>S</TD>
       <TD>2?</TD>
@@ -60,8 +60,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G1.9+0.3.html"&gt;G1.9+0.3&lt;/A&gt;</TD>
-      <TD>17 48 45</TD>
-      <TD>-27 10</TD>
+      <TD>17:48:45</TD>
+      <TD>-27:10</TD>
       <TD>1.5</TD>
       <TD>S</TD>
       <TD>0.6</TD>
@@ -69,8 +69,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G3.1-0.6.html"&gt;G3.1-0.6&lt;/A&gt;</TD>
-      <TD>17 55 30</TD>
-      <TD>-26 35</TD>
+      <TD>17:55:30</TD>
+      <TD>-26:35</TD>
       <TD>52x28</TD>
       <TD>S</TD>
       <TD>5</TD>
@@ -78,8 +78,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G3.7-0.2.html"&gt;G3.7-0.2&lt;/A&gt;</TD>
-      <TD>17 55 26</TD>
-      <TD>-25 50</TD>
+      <TD>17:55:26</TD>
+      <TD>-25:50</TD>
       <TD>14x11</TD>
       <TD>S</TD>
       <TD>2.3</TD>
@@ -87,8 +87,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G3.8+0.3.html"&gt;G3.8+0.3&lt;/A&gt;</TD>
-      <TD>17 52 55</TD>
-      <TD>-25 28</TD>
+      <TD>17:52:55</TD>
+      <TD>-25:28</TD>
       <TD>18</TD>
       <TD>S?</TD>
       <TD>3?</TD>
@@ -96,8 +96,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G4.2-3.5.html"&gt;G4.2-3.5&lt;/A&gt;</TD>
-      <TD>18 08 55</TD>
-      <TD>-27 03</TD>
+      <TD>18:08:55</TD>
+      <TD>-27:03</TD>
       <TD>28</TD>
       <TD>S</TD>
       <TD>3.2?</TD>
@@ -105,8 +105,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G4.5+6.8.html"&gt;G4.5+6.8&lt;/A&gt;</TD>
-      <TD>17 30 42</TD>
-      <TD>-21 29</TD>
+      <TD>17:30:42</TD>
+      <TD>-21:29</TD>
       <TD>3</TD>
       <TD>S</TD>
       <TD>19</TD>
@@ -114,8 +114,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G4.8+6.2.html"&gt;G4.8+6.2&lt;/A&gt;</TD>
-      <TD>17 33 25</TD>
-      <TD>-21 34</TD>
+      <TD>17:33:25</TD>
+      <TD>-21:34</TD>
       <TD>18</TD>
       <TD>S</TD>
       <TD>3</TD>
@@ -123,8 +123,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G5.2-2.6.html"&gt;G5.2-2.6&lt;/A&gt;</TD>
-      <TD>18 07 30</TD>
-      <TD>-25 45</TD>
+      <TD>18:07:30</TD>
+      <TD>-25:45</TD>
       <TD>18</TD>
       <TD>S</TD>
       <TD>2.6?</TD>
@@ -132,8 +132,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G5.4-1.2.html"&gt;G5.4-1.2&lt;/A&gt;</TD>
-      <TD>18 02 10</TD>
-      <TD>-24 54</TD>
+      <TD>18:02:10</TD>
+      <TD>-24:54</TD>
       <TD>35</TD>
       <TD>C?</TD>
       <TD>35?</TD>
@@ -141,8 +141,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G5.5+0.3.html"&gt;G5.5+0.3&lt;/A&gt;</TD>
-      <TD>17 57 04</TD>
-      <TD>-24 00</TD>
+      <TD>17:57:04</TD>
+      <TD>-24:00</TD>
       <TD>15x12</TD>
       <TD>S</TD>
       <TD>5.5</TD>
@@ -150,8 +150,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G5.9+3.1.html"&gt;G5.9+3.1&lt;/A&gt;</TD>
-      <TD>17 47 20</TD>
-      <TD>-22 16</TD>
+      <TD>17:47:20</TD>
+      <TD>-22:16</TD>
       <TD>20</TD>
       <TD>S</TD>
       <TD>3.3?</TD>
@@ -159,8 +159,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G6.1+0.5.html"&gt;G6.1+0.5&lt;/A&gt;</TD>
-      <TD>17 57 29</TD>
-      <TD>-23 25</TD>
+      <TD>17:57:29</TD>
+      <TD>-23:25</TD>
       <TD>18x12</TD>
       <TD>S</TD>
       <TD>4.5</TD>
@@ -168,8 +168,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G6.1+1.2.html"&gt;G6.1+1.2&lt;/A&gt;</TD>
-      <TD>17 54 55</TD>
-      <TD>-23 05</TD>
+      <TD>17:54:55</TD>
+      <TD>-23:05</TD>
       <TD>30x26</TD>
       <TD>F</TD>
       <TD>4.0?</TD>
@@ -177,8 +177,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G6.4-0.1.html"&gt;G6.4-0.1&lt;/A&gt;</TD>
-      <TD>18 00 30</TD>
-      <TD>-23 26</TD>
+      <TD>18:00:30</TD>
+      <TD>-23:26</TD>
       <TD>48</TD>
       <TD>C</TD>
       <TD>310</TD>
@@ -186,8 +186,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G6.4+4.0.html"&gt;G6.4+4.0&lt;/A&gt;</TD>
-      <TD>17 45 10</TD>
-      <TD>-21 22</TD>
+      <TD>17:45:10</TD>
+      <TD>-21:22</TD>
       <TD>31</TD>
       <TD>S</TD>
       <TD>1.3?</TD>
@@ -195,8 +195,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G6.5-0.4.html"&gt;G6.5-0.4&lt;/A&gt;</TD>
-      <TD>18 02 11</TD>
-      <TD>-23 34</TD>
+      <TD>18:02:11</TD>
+      <TD>-23:34</TD>
       <TD>18</TD>
       <TD>S</TD>
       <TD>27</TD>
@@ -204,8 +204,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G7.0-0.1.html"&gt;G7.0-0.1&lt;/A&gt;</TD>
-      <TD>18 01 50</TD>
-      <TD>-22 54</TD>
+      <TD>18:01:50</TD>
+      <TD>-22:54</TD>
       <TD>15</TD>
       <TD>S</TD>
       <TD>2.5?</TD>
@@ -213,8 +213,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G7.2+0.2.html"&gt;G7.2+0.2&lt;/A&gt;</TD>
-      <TD>18 01 07</TD>
-      <TD>-22 38</TD>
+      <TD>18:01:07</TD>
+      <TD>-22:38</TD>
       <TD>12</TD>
       <TD>S</TD>
       <TD>2.8</TD>
@@ -222,8 +222,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G7.5-1.7.html"&gt;G7.5-1.7&lt;/A&gt;</TD>
-      <TD>18 10 00</TD>
-      <TD>-23 10</TD>
+      <TD>18:10:00</TD>
+      <TD>-23:10</TD>
       <TD>100</TD>
       <TD>S</TD>
       <TD>18?</TD>
@@ -231,8 +231,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G7.7-3.7.html"&gt;G7.7-3.7&lt;/A&gt;</TD>
-      <TD>18 17 25</TD>
-      <TD>-24 04</TD>
+      <TD>18:17:25</TD>
+      <TD>-24:04</TD>
       <TD>22</TD>
       <TD>S</TD>
       <TD>11</TD>
@@ -240,8 +240,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G8.7-5.0.html"&gt;G8.7-5.0&lt;/A&gt;</TD>
-      <TD>18 24 10</TD>
-      <TD>-23 48</TD>
+      <TD>18:24:10</TD>
+      <TD>-23:48</TD>
       <TD>26</TD>
       <TD>S</TD>
       <TD>4.4</TD>
@@ -249,8 +249,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G8.7-0.1.html"&gt;G8.7-0.1&lt;/A&gt;</TD>
-      <TD>18 05 30</TD>
-      <TD>-21 26</TD>
+      <TD>18:05:30</TD>
+      <TD>-21:26</TD>
       <TD>45</TD>
       <TD>S?</TD>
       <TD>80</TD>
@@ -258,8 +258,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G8.9+0.4.html"&gt;G8.9+0.4&lt;/A&gt;</TD>
-      <TD>18 03 58</TD>
-      <TD>-21 03</TD>
+      <TD>18:03:58</TD>
+      <TD>-21:03</TD>
       <TD>24</TD>
       <TD>S</TD>
       <TD>9</TD>
@@ -267,8 +267,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G9.7-0.0.html"&gt;G9.7-0.0&lt;/A&gt;</TD>
-      <TD>18 07 22</TD>
-      <TD>-20 35</TD>
+      <TD>18:07:22</TD>
+      <TD>-20:35</TD>
       <TD>15x11</TD>
       <TD>S</TD>
       <TD>3.7</TD>
@@ -276,8 +276,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G9.8+0.6.html"&gt;G9.8+0.6&lt;/A&gt;</TD>
-      <TD>18 05 08</TD>
-      <TD>-20 14</TD>
+      <TD>18:05:08</TD>
+      <TD>-20:14</TD>
       <TD>12</TD>
       <TD>S</TD>
       <TD>3.9</TD>
@@ -285,8 +285,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G9.9-0.8.html"&gt;G9.9-0.8&lt;/A&gt;</TD>
-      <TD>18 10 41</TD>
-      <TD>-20 43</TD>
+      <TD>18:10:41</TD>
+      <TD>-20:43</TD>
       <TD>12</TD>
       <TD>S</TD>
       <TD>6.7</TD>
@@ -294,8 +294,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G11.0-0.0.html"&gt;G11.0-0.0&lt;/A&gt;</TD>
-      <TD>18 10 04</TD>
-      <TD>-19 25</TD>
+      <TD>18:10:04</TD>
+      <TD>-19:25</TD>
       <TD>11x9</TD>
       <TD>S</TD>
       <TD>1.3</TD>
@@ -303,8 +303,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G11.1-0.7.html"&gt;G11.1-0.7&lt;/A&gt;</TD>
-      <TD>18 12 46</TD>
-      <TD>-19 38</TD>
+      <TD>18:12:46</TD>
+      <TD>-19:38</TD>
       <TD>11x7</TD>
       <TD>S</TD>
       <TD>1.0</TD>
@@ -312,8 +312,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G11.1+0.1.html"&gt;G11.1+0.1&lt;/A&gt;</TD>
-      <TD>18 09 47</TD>
-      <TD>-19 12</TD>
+      <TD>18:09:47</TD>
+      <TD>-19:12</TD>
       <TD>12x10</TD>
       <TD>S</TD>
       <TD>2.3</TD>
@@ -321,8 +321,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G11.2-0.3.html"&gt;G11.2-0.3&lt;/A&gt;</TD>
-      <TD>18 11 27</TD>
-      <TD>-19 25</TD>
+      <TD>18:11:27</TD>
+      <TD>-19:25</TD>
       <TD>4</TD>
       <TD>C</TD>
       <TD>22</TD>
@@ -330,8 +330,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G11.4-0.1.html"&gt;G11.4-0.1&lt;/A&gt;</TD>
-      <TD>18 10 47</TD>
-      <TD>-19 05</TD>
+      <TD>18:10:47</TD>
+      <TD>-19:05</TD>
       <TD>8</TD>
       <TD>S?</TD>
       <TD>6</TD>
@@ -339,8 +339,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G11.8-0.2.html"&gt;G11.8-0.2&lt;/A&gt;</TD>
-      <TD>18 12 25</TD>
-      <TD>-18 44</TD>
+      <TD>18:12:25</TD>
+      <TD>-18:44</TD>
       <TD>4</TD>
       <TD>S</TD>
       <TD>0.7</TD>
@@ -348,8 +348,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G12.0-0.1.html"&gt;G12.0-0.1&lt;/A&gt;</TD>
-      <TD>18 12 11</TD>
-      <TD>-18 37</TD>
+      <TD>18:12:11</TD>
+      <TD>-18:37</TD>
       <TD>7?</TD>
       <TD>?</TD>
       <TD>3.5</TD>
@@ -357,8 +357,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G12.2+0.3.html"&gt;G12.2+0.3&lt;/A&gt;</TD>
-      <TD>18 11 17</TD>
-      <TD>-18 10</TD>
+      <TD>18:11:17</TD>
+      <TD>-18:10</TD>
       <TD>6x5</TD>
       <TD>S</TD>
       <TD>0.8</TD>
@@ -366,8 +366,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G12.5+0.2.html"&gt;G12.5+0.2&lt;/A&gt;</TD>
-      <TD>18 12 14</TD>
-      <TD>-17 55</TD>
+      <TD>18:12:14</TD>
+      <TD>-17:55</TD>
       <TD>6x5</TD>
       <TD>C?</TD>
       <TD>0.6</TD>
@@ -375,8 +375,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G12.7-0.0.html"&gt;G12.7-0.0&lt;/A&gt;</TD>
-      <TD>18 13 19</TD>
-      <TD>-17 54</TD>
+      <TD>18:13:19</TD>
+      <TD>-17:54</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>0.8</TD>
@@ -384,8 +384,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G12.8-0.0.html"&gt;G12.8-0.0&lt;/A&gt;</TD>
-      <TD>18 13 37</TD>
-      <TD>-17 49</TD>
+      <TD>18:13:37</TD>
+      <TD>-17:49</TD>
       <TD>3</TD>
       <TD>C?</TD>
       <TD>0.8</TD>
@@ -393,8 +393,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G13.1-0.5.html"&gt;G13.1-0.5&lt;/A&gt;</TD>
-      <TD>18 16 00</TD>
-      <TD>-17 49</TD>
+      <TD>18:16:00</TD>
+      <TD>-17:49</TD>
       <TD>38x28</TD>
       <TD>S</TD>
       <TD>11?</TD>
@@ -402,8 +402,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G13.3-1.3.html"&gt;G13.3-1.3&lt;/A&gt;</TD>
-      <TD>18 19 20</TD>
-      <TD>-18 00</TD>
+      <TD>18:19:20</TD>
+      <TD>-18:00</TD>
       <TD>70x40</TD>
       <TD>S?</TD>
       <TD>?</TD>
@@ -411,8 +411,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G13.5+0.2.html"&gt;G13.5+0.2&lt;/A&gt;</TD>
-      <TD>18 14 14</TD>
-      <TD>-17 12</TD>
+      <TD>18:14:14</TD>
+      <TD>-17:12</TD>
       <TD>5x4</TD>
       <TD>S</TD>
       <TD>3.5?</TD>
@@ -420,8 +420,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G14.1-0.1.html"&gt;G14.1-0.1&lt;/A&gt;</TD>
-      <TD>18 16 40</TD>
-      <TD>-16 41</TD>
+      <TD>18:16:40</TD>
+      <TD>-16:41</TD>
       <TD>6x5</TD>
       <TD>S</TD>
       <TD>0.5</TD>
@@ -429,8 +429,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G15.1-1.6.html"&gt;G15.1-1.6&lt;/A&gt;</TD>
-      <TD>18 24 00</TD>
-      <TD>-16 34</TD>
+      <TD>18:24:00</TD>
+      <TD>-16:34</TD>
       <TD>30x24</TD>
       <TD>S?</TD>
       <TD>5.5?</TD>
@@ -438,8 +438,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G15.4+0.1.html"&gt;G15.4+0.1&lt;/A&gt;</TD>
-      <TD>18 18 02</TD>
-      <TD>-15 27</TD>
+      <TD>18:18:02</TD>
+      <TD>-15:27</TD>
       <TD>15x14</TD>
       <TD>C?</TD>
       <TD>5.6</TD>
@@ -447,8 +447,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G15.5-0.1.html"&gt;G15.5-0.1&lt;/A&gt;</TD>
-      <TD>18 19 25</TD>
-      <TD>-15 32</TD>
+      <TD>18:19:25</TD>
+      <TD>-15:32</TD>
       <TD>9x8</TD>
       <TD>?</TD>
       <TD>1.2?</TD>
@@ -456,8 +456,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G15.9+0.2.html"&gt;G15.9+0.2&lt;/A&gt;</TD>
-      <TD>18 18 52</TD>
-      <TD>-15 02</TD>
+      <TD>18:18:52</TD>
+      <TD>-15:02</TD>
       <TD>7x5</TD>
       <TD>S?</TD>
       <TD>5.0</TD>
@@ -465,8 +465,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G16.0-0.5.html"&gt;G16.0-0.5&lt;/A&gt;</TD>
-      <TD>18 21 56</TD>
-      <TD>-15 14</TD>
+      <TD>18:21:56</TD>
+      <TD>-15:14</TD>
       <TD>15x10</TD>
       <TD>S</TD>
       <TD>2.7</TD>
@@ -474,8 +474,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G16.2-2.7.html"&gt;G16.2-2.7&lt;/A&gt;</TD>
-      <TD>18 29 40</TD>
-      <TD>-16 08</TD>
+      <TD>18:29:40</TD>
+      <TD>-16:08</TD>
       <TD>17</TD>
       <TD>S</TD>
       <TD>2.5</TD>
@@ -483,8 +483,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G16.7+0.1.html"&gt;G16.7+0.1&lt;/A&gt;</TD>
-      <TD>18 20 56</TD>
-      <TD>-14 20</TD>
+      <TD>18:20:56</TD>
+      <TD>-14:20</TD>
       <TD>4</TD>
       <TD>C</TD>
       <TD>3.0</TD>
@@ -492,8 +492,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G17.0-0.0.html"&gt;G17.0-0.0&lt;/A&gt;</TD>
-      <TD>18 21 57</TD>
-      <TD>-14 08</TD>
+      <TD>18:21:57</TD>
+      <TD>-14:08</TD>
       <TD>5</TD>
       <TD>S</TD>
       <TD>0.5</TD>
@@ -501,8 +501,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G17.4-2.3.html"&gt;G17.4-2.3&lt;/A&gt;</TD>
-      <TD>18 30 55</TD>
-      <TD>-14 52</TD>
+      <TD>18:30:55</TD>
+      <TD>-14:52</TD>
       <TD>24?</TD>
       <TD>S</TD>
       <TD>5</TD>
@@ -510,8 +510,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G17.4-0.1.html"&gt;G17.4-0.1&lt;/A&gt;</TD>
-      <TD>18 23 08</TD>
-      <TD>-13 46</TD>
+      <TD>18:23:08</TD>
+      <TD>-13:46</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>0.4</TD>
@@ -519,8 +519,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G17.8-2.6.html"&gt;G17.8-2.6&lt;/A&gt;</TD>
-      <TD>18 32 50</TD>
-      <TD>-14 39</TD>
+      <TD>18:32:50</TD>
+      <TD>-14:39</TD>
       <TD>24</TD>
       <TD>S</TD>
       <TD>5</TD>
@@ -528,8 +528,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G18.1-0.1.html"&gt;G18.1-0.1&lt;/A&gt;</TD>
-      <TD>18 24 34</TD>
-      <TD>-13 11</TD>
+      <TD>18:24:34</TD>
+      <TD>-13:11</TD>
       <TD>8</TD>
       <TD>S</TD>
       <TD>4.6</TD>
@@ -537,8 +537,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G18.6-0.2.html"&gt;G18.6-0.2&lt;/A&gt;</TD>
-      <TD>18 25 55</TD>
-      <TD>-12 50</TD>
+      <TD>18:25:55</TD>
+      <TD>-12:50</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>1.4</TD>
@@ -546,8 +546,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G18.8+0.3.html"&gt;G18.8+0.3&lt;/A&gt;</TD>
-      <TD>18 23 58</TD>
-      <TD>-12 23</TD>
+      <TD>18:23:58</TD>
+      <TD>-12:23</TD>
       <TD>17x11</TD>
       <TD>S</TD>
       <TD>33</TD>
@@ -555,8 +555,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G18.9-1.1.html"&gt;G18.9-1.1&lt;/A&gt;</TD>
-      <TD>18 29 50</TD>
-      <TD>-12 58</TD>
+      <TD>18:29:50</TD>
+      <TD>-12:58</TD>
       <TD>33</TD>
       <TD>C?</TD>
       <TD>37</TD>
@@ -564,8 +564,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G19.1+0.2.html"&gt;G19.1+0.2&lt;/A&gt;</TD>
-      <TD>18 24 56</TD>
-      <TD>-12 07</TD>
+      <TD>18:24:56</TD>
+      <TD>-12:07</TD>
       <TD>27</TD>
       <TD>S</TD>
       <TD>10</TD>
@@ -573,8 +573,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G20.0-0.2.html"&gt;G20.0-0.2&lt;/A&gt;</TD>
-      <TD>18 28 07</TD>
-      <TD>-11 35</TD>
+      <TD>18:28:07</TD>
+      <TD>-11:35</TD>
       <TD>10</TD>
       <TD>F</TD>
       <TD>10</TD>
@@ -582,8 +582,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G21.0-0.4.html"&gt;G21.0-0.4&lt;/A&gt;</TD>
-      <TD>18 31 12</TD>
-      <TD>-10 47</TD>
+      <TD>18:31:12</TD>
+      <TD>-10:47</TD>
       <TD>9x7</TD>
       <TD>S</TD>
       <TD>1.1</TD>
@@ -591,8 +591,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G21.5-0.9.html"&gt;G21.5-0.9&lt;/A&gt;</TD>
-      <TD>18 33 33</TD>
-      <TD>-10 35</TD>
+      <TD>18:33:33</TD>
+      <TD>-10:35</TD>
       <TD>5</TD>
       <TD>C</TD>
       <TD>7</TD>
@@ -600,8 +600,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G21.6-0.8.html"&gt;G21.6-0.8&lt;/A&gt;</TD>
-      <TD>18 33 40</TD>
-      <TD>-10 25</TD>
+      <TD>18:33:40</TD>
+      <TD>-10:25</TD>
       <TD>13</TD>
       <TD>S</TD>
       <TD>1.4</TD>
@@ -609,8 +609,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G21.8-3.0.html"&gt;G21.8-3.0&lt;/A&gt;</TD>
-      <TD>18 41 50</TD>
-      <TD>-11 16</TD>
+      <TD>18:41:50</TD>
+      <TD>-11:16</TD>
       <TD>60</TD>
       <TD>S</TD>
       <TD>5</TD>
@@ -618,8 +618,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G21.8-0.6.html"&gt;G21.8-0.6&lt;/A&gt;</TD>
-      <TD>18 32 45</TD>
-      <TD>-10 08</TD>
+      <TD>18:32:45</TD>
+      <TD>-10:08</TD>
       <TD>20</TD>
       <TD>S</TD>
       <TD>65</TD>
@@ -627,8 +627,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G22.7-0.2.html"&gt;G22.7-0.2&lt;/A&gt;</TD>
-      <TD>18 33 15</TD>
-      <TD>-09 13</TD>
+      <TD>18:33:15</TD>
+      <TD>-09:13</TD>
       <TD>26</TD>
       <TD>S?</TD>
       <TD>33</TD>
@@ -636,8 +636,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G23.3-0.3.html"&gt;G23.3-0.3&lt;/A&gt;</TD>
-      <TD>18 34 45</TD>
-      <TD>-08 48</TD>
+      <TD>18:34:45</TD>
+      <TD>-08:48</TD>
       <TD>27</TD>
       <TD>S</TD>
       <TD>70</TD>
@@ -645,8 +645,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G24.7-0.6.html"&gt;G24.7-0.6&lt;/A&gt;</TD>
-      <TD>18 38 43</TD>
-      <TD>-07 32</TD>
+      <TD>18:38:43</TD>
+      <TD>-07:32</TD>
       <TD>15?</TD>
       <TD>S?</TD>
       <TD>8</TD>
@@ -654,8 +654,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G24.7+0.6.html"&gt;G24.7+0.6&lt;/A&gt;</TD>
-      <TD>18 34 10</TD>
-      <TD>-07 05</TD>
+      <TD>18:34:10</TD>
+      <TD>-07:05</TD>
       <TD>30x15</TD>
       <TD>C?</TD>
       <TD>20?</TD>
@@ -663,8 +663,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G25.1-2.3.html"&gt;G25.1-2.3&lt;/A&gt;</TD>
-      <TD>18 45 10</TD>
-      <TD>-08 00</TD>
+      <TD>18:45:10</TD>
+      <TD>-08:00</TD>
       <TD>80x30?</TD>
       <TD>S</TD>
       <TD>8</TD>
@@ -672,8 +672,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G27.4+0.0.html"&gt;G27.4+0.0&lt;/A&gt;</TD>
-      <TD>18 41 19</TD>
-      <TD>-04 56</TD>
+      <TD>18:41:19</TD>
+      <TD>-04:56</TD>
       <TD>4</TD>
       <TD>S</TD>
       <TD>6</TD>
@@ -681,8 +681,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G27.8+0.6.html"&gt;G27.8+0.6&lt;/A&gt;</TD>
-      <TD>18 39 50</TD>
-      <TD>-04 24</TD>
+      <TD>18:39:50</TD>
+      <TD>-04:24</TD>
       <TD>50x30</TD>
       <TD>F</TD>
       <TD>30</TD>
@@ -690,8 +690,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G28.3+0.2.html"&gt;G28.3+0.2&lt;/A&gt;</TD>
-      <TD>18 42 30</TD>
-      <TD>-03 58</TD>
+      <TD>18:42:30</TD>
+      <TD>-03:58</TD>
       <TD>10</TD>
       <TD>S</TD>
       <TD>1.3?</TD>
@@ -699,8 +699,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G28.6-0.1.html"&gt;G28.6-0.1&lt;/A&gt;</TD>
-      <TD>18 43 55</TD>
-      <TD>-03 53</TD>
+      <TD>18:43:55</TD>
+      <TD>-03:53</TD>
       <TD>13x9</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -708,8 +708,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G28.7-0.4.html"&gt;G28.7-0.4&lt;/A&gt;</TD>
-      <TD>18 45 30</TD>
-      <TD>-03 54</TD>
+      <TD>18:45:30</TD>
+      <TD>-03:54</TD>
       <TD>9</TD>
       <TD>S</TD>
       <TD>0.9?</TD>
@@ -717,8 +717,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G28.8+1.5.html"&gt;G28.8+1.5&lt;/A&gt;</TD>
-      <TD>18 39 00</TD>
-      <TD>-02 55</TD>
+      <TD>18:39:00</TD>
+      <TD>-02:55</TD>
       <TD>100?</TD>
       <TD>S?</TD>
       <TD>?</TD>
@@ -726,8 +726,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G29.6+0.1.html"&gt;G29.6+0.1&lt;/A&gt;</TD>
-      <TD>18 44 52</TD>
-      <TD>-02 57</TD>
+      <TD>18:44:52</TD>
+      <TD>-02:57</TD>
       <TD>5</TD>
       <TD>S</TD>
       <TD>1.5?</TD>
@@ -735,8 +735,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G29.7-0.3.html"&gt;G29.7-0.3&lt;/A&gt;</TD>
-      <TD>18 46 25</TD>
-      <TD>-02 59</TD>
+      <TD>18:46:25</TD>
+      <TD>-02:59</TD>
       <TD>3</TD>
       <TD>C</TD>
       <TD>10</TD>
@@ -744,8 +744,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G30.7-2.0.html"&gt;G30.7-2.0&lt;/A&gt;</TD>
-      <TD>18 54 25</TD>
-      <TD>-02 54</TD>
+      <TD>18:54:25</TD>
+      <TD>-02:54</TD>
       <TD>16</TD>
       <TD>?</TD>
       <TD>0.5?</TD>
@@ -753,8 +753,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G30.7+1.0.html"&gt;G30.7+1.0&lt;/A&gt;</TD>
-      <TD>18 44 00</TD>
-      <TD>-01 32</TD>
+      <TD>18:44:00</TD>
+      <TD>-01:32</TD>
       <TD>24x18</TD>
       <TD>S?</TD>
       <TD>6</TD>
@@ -762,8 +762,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G31.5-0.6.html"&gt;G31.5-0.6&lt;/A&gt;</TD>
-      <TD>18 51 10</TD>
-      <TD>-01 31</TD>
+      <TD>18:51:10</TD>
+      <TD>-01:31</TD>
       <TD>18?</TD>
       <TD>S?</TD>
       <TD>2?</TD>
@@ -771,8 +771,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G31.9+0.0.html"&gt;G31.9+0.0&lt;/A&gt;</TD>
-      <TD>18 49 25</TD>
-      <TD>-00 55</TD>
+      <TD>18:49:25</TD>
+      <TD>-00:55</TD>
       <TD>7x5</TD>
       <TD>S</TD>
       <TD>25</TD>
@@ -780,8 +780,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G32.0-4.9.html"&gt;G32.0-4.9&lt;/A&gt;</TD>
-      <TD>19 06 00</TD>
-      <TD>-03 00</TD>
+      <TD>19:06:00</TD>
+      <TD>-03:00</TD>
       <TD>60?</TD>
       <TD>S?</TD>
       <TD>22?</TD>
@@ -789,8 +789,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G32.1-0.9.html"&gt;G32.1-0.9&lt;/A&gt;</TD>
-      <TD>18 53 10</TD>
-      <TD>-01 08</TD>
+      <TD>18:53:10</TD>
+      <TD>-01:08</TD>
       <TD>40?</TD>
       <TD>C?</TD>
       <TD>?</TD>
@@ -798,8 +798,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G32.4+0.1.html"&gt;G32.4+0.1&lt;/A&gt;</TD>
-      <TD>18 50 05</TD>
-      <TD>-00 25</TD>
+      <TD>18:50:05</TD>
+      <TD>-00:25</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>0.25?</TD>
@@ -807,8 +807,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G32.8-0.1.html"&gt;G32.8-0.1&lt;/A&gt;</TD>
-      <TD>18 51 25</TD>
-      <TD>-00 08</TD>
+      <TD>18:51:25</TD>
+      <TD>-00:08</TD>
       <TD>22x15</TD>
       <TD>S?</TD>
       <TD>11?</TD>
@@ -816,8 +816,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G33.2-0.6.html"&gt;G33.2-0.6&lt;/A&gt;</TD>
-      <TD>18 53 50</TD>
-      <TD>-00 02</TD>
+      <TD>18:53:50</TD>
+      <TD>-00:02</TD>
       <TD>18</TD>
       <TD>S</TD>
       <TD>3.5</TD>
@@ -825,8 +825,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G33.6+0.1.html"&gt;G33.6+0.1&lt;/A&gt;</TD>
-      <TD>18 52 48</TD>
-      <TD>+00 41</TD>
+      <TD>18:52:48</TD>
+      <TD>+00:41</TD>
       <TD>10</TD>
       <TD>S</TD>
       <TD>20</TD>
@@ -834,8 +834,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G34.7-0.4.html"&gt;G34.7-0.4&lt;/A&gt;</TD>
-      <TD>18 56 00</TD>
-      <TD>+01 22</TD>
+      <TD>18:56:00</TD>
+      <TD>+01:22</TD>
       <TD>35x27</TD>
       <TD>C</TD>
       <TD>240</TD>
@@ -843,8 +843,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G35.6-0.4.html"&gt;G35.6-0.4&lt;/A&gt;</TD>
-      <TD>18 57 55</TD>
-      <TD>+02 13</TD>
+      <TD>18:57:55</TD>
+      <TD>+02:13</TD>
       <TD>15x11</TD>
       <TD>S?</TD>
       <TD>9</TD>
@@ -852,8 +852,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G36.6-0.7.html"&gt;G36.6-0.7&lt;/A&gt;</TD>
-      <TD>19 00 35</TD>
-      <TD>+02 56</TD>
+      <TD>19:00:35</TD>
+      <TD>+02:56</TD>
       <TD>25?</TD>
       <TD>S?</TD>
       <TD>1.0</TD>
@@ -861,8 +861,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G36.6+2.6.html"&gt;G36.6+2.6&lt;/A&gt;</TD>
-      <TD>18 48 49</TD>
-      <TD>+04 26</TD>
+      <TD>18:48:49</TD>
+      <TD>+04:26</TD>
       <TD>17x13?</TD>
       <TD>S</TD>
       <TD>0.7?</TD>
@@ -870,8 +870,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G38.7-1.3.html"&gt;G38.7-1.3&lt;/A&gt;</TD>
-      <TD>19 06 40</TD>
-      <TD>+04 28</TD>
+      <TD>19:06:40</TD>
+      <TD>+04:28</TD>
       <TD>32x19?</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -879,8 +879,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G39.2-0.3.html"&gt;G39.2-0.3&lt;/A&gt;</TD>
-      <TD>19 04 08</TD>
-      <TD>+05 28</TD>
+      <TD>19:04:08</TD>
+      <TD>+05:28</TD>
       <TD>8x6</TD>
       <TD>C</TD>
       <TD>18</TD>
@@ -888,8 +888,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G39.7-2.0.html"&gt;G39.7-2.0&lt;/A&gt;</TD>
-      <TD>19 12 20</TD>
-      <TD>+04 55</TD>
+      <TD>19:12:20</TD>
+      <TD>+04:55</TD>
       <TD>120x60</TD>
       <TD>?</TD>
       <TD>85?</TD>
@@ -897,8 +897,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G40.5-0.5.html"&gt;G40.5-0.5&lt;/A&gt;</TD>
-      <TD>19 07 10</TD>
-      <TD>+06 31</TD>
+      <TD>19:07:10</TD>
+      <TD>+06:31</TD>
       <TD>22</TD>
       <TD>S</TD>
       <TD>11</TD>
@@ -906,8 +906,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G41.1-0.3.html"&gt;G41.1-0.3&lt;/A&gt;</TD>
-      <TD>19 07 34</TD>
-      <TD>+07 08</TD>
+      <TD>19:07:34</TD>
+      <TD>+07:08</TD>
       <TD>4.5x2.5</TD>
       <TD>S</TD>
       <TD>25</TD>
@@ -915,8 +915,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G41.5+0.4.html"&gt;G41.5+0.4&lt;/A&gt;</TD>
-      <TD>19 05 50</TD>
-      <TD>+07 46</TD>
+      <TD>19:05:50</TD>
+      <TD>+07:46</TD>
       <TD>10</TD>
       <TD>S?</TD>
       <TD>1?</TD>
@@ -924,8 +924,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G42.0-0.1.html"&gt;G42.0-0.1&lt;/A&gt;</TD>
-      <TD>19 08 10</TD>
-      <TD>+08 00</TD>
+      <TD>19:08:10</TD>
+      <TD>+08:00</TD>
       <TD>8</TD>
       <TD>S?</TD>
       <TD>0.5?</TD>
@@ -933,8 +933,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G42.8+0.6.html"&gt;G42.8+0.6&lt;/A&gt;</TD>
-      <TD>19 07 20</TD>
-      <TD>+09 05</TD>
+      <TD>19:07:20</TD>
+      <TD>+09:05</TD>
       <TD>24</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -942,8 +942,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G43.3-0.2.html"&gt;G43.3-0.2&lt;/A&gt;</TD>
-      <TD>19 11 08</TD>
-      <TD>+09 06</TD>
+      <TD>19:11:08</TD>
+      <TD>+09:06</TD>
       <TD>4x3</TD>
       <TD>S</TD>
       <TD>38</TD>
@@ -951,8 +951,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G43.9+1.6.html"&gt;G43.9+1.6&lt;/A&gt;</TD>
-      <TD>19 05 50</TD>
-      <TD>+10 30</TD>
+      <TD>19:05:50</TD>
+      <TD>+10:30</TD>
       <TD>60?</TD>
       <TD>S?</TD>
       <TD>9.0</TD>
@@ -960,8 +960,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G45.7-0.4.html"&gt;G45.7-0.4&lt;/A&gt;</TD>
-      <TD>19 16 25</TD>
-      <TD>+11 09</TD>
+      <TD>19:16:25</TD>
+      <TD>+11:09</TD>
       <TD>22</TD>
       <TD>S</TD>
       <TD>4.2?</TD>
@@ -969,8 +969,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G46.8-0.3.html"&gt;G46.8-0.3&lt;/A&gt;</TD>
-      <TD>19 18 10</TD>
-      <TD>+12 09</TD>
+      <TD>19:18:10</TD>
+      <TD>+12:09</TD>
       <TD>15</TD>
       <TD>S</TD>
       <TD>17</TD>
@@ -978,8 +978,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G49.2-0.7.html"&gt;G49.2-0.7&lt;/A&gt;</TD>
-      <TD>19 23 50</TD>
-      <TD>+14 06</TD>
+      <TD>19:23:50</TD>
+      <TD>+14:06</TD>
       <TD>30</TD>
       <TD>S?</TD>
       <TD>160?</TD>
@@ -987,8 +987,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G53.4+0.0.html"&gt;G53.4+0.0&lt;/A&gt;</TD>
-      <TD>19 29 57</TD>
-      <TD>+18 10</TD>
+      <TD>19:29:57</TD>
+      <TD>+18:10</TD>
       <TD>10?</TD>
       <TD>S</TD>
       <TD>1.5</TD>
@@ -996,8 +996,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G53.6-2.2.html"&gt;G53.6-2.2&lt;/A&gt;</TD>
-      <TD>19 38 50</TD>
-      <TD>+17 14</TD>
+      <TD>19:38:50</TD>
+      <TD>+17:14</TD>
       <TD>33x28</TD>
       <TD>S</TD>
       <TD>8</TD>
@@ -1005,8 +1005,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G54.1+0.3.html"&gt;G54.1+0.3&lt;/A&gt;</TD>
-      <TD>19 30 31</TD>
-      <TD>+18 52</TD>
+      <TD>19:30:31</TD>
+      <TD>+18:52</TD>
       <TD>12?</TD>
       <TD>C?</TD>
       <TD>0.5</TD>
@@ -1014,8 +1014,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G54.4-0.3.html"&gt;G54.4-0.3&lt;/A&gt;</TD>
-      <TD>19 33 20</TD>
-      <TD>+18 56</TD>
+      <TD>19:33:20</TD>
+      <TD>+18:56</TD>
       <TD>40</TD>
       <TD>S</TD>
       <TD>28</TD>
@@ -1023,8 +1023,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G55.0+0.3.html"&gt;G55.0+0.3&lt;/A&gt;</TD>
-      <TD>19 32 00</TD>
-      <TD>+19 50</TD>
+      <TD>19:32:00</TD>
+      <TD>+19:50</TD>
       <TD>20x15?</TD>
       <TD>S</TD>
       <TD>0.5?</TD>
@@ -1032,8 +1032,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G55.7+3.4.html"&gt;G55.7+3.4&lt;/A&gt;</TD>
-      <TD>19 21 20</TD>
-      <TD>+21 44</TD>
+      <TD>19:21:20</TD>
+      <TD>+21:44</TD>
       <TD>23</TD>
       <TD>S</TD>
       <TD>1?</TD>
@@ -1041,8 +1041,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G57.2+0.8.html"&gt;G57.2+0.8&lt;/A&gt;</TD>
-      <TD>19 34 59</TD>
-      <TD>+21 57</TD>
+      <TD>19:34:59</TD>
+      <TD>+21:57</TD>
       <TD>12?</TD>
       <TD>S?</TD>
       <TD>1.8</TD>
@@ -1050,8 +1050,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G59.5+0.1.html"&gt;G59.5+0.1&lt;/A&gt;</TD>
-      <TD>19 42 33</TD>
-      <TD>+23 35</TD>
+      <TD>19:42:33</TD>
+      <TD>+23:35</TD>
       <TD>15</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -1059,8 +1059,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G63.7+1.1.html"&gt;G63.7+1.1&lt;/A&gt;</TD>
-      <TD>19 47 52</TD>
-      <TD>+27 45</TD>
+      <TD>19:47:52</TD>
+      <TD>+27:45</TD>
       <TD>8</TD>
       <TD>F</TD>
       <TD>1.8</TD>
@@ -1068,8 +1068,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G64.5+0.9.html"&gt;G64.5+0.9&lt;/A&gt;</TD>
-      <TD>19 50 25</TD>
-      <TD>+28 16</TD>
+      <TD>19:50:25</TD>
+      <TD>+28:16</TD>
       <TD>8</TD>
       <TD>S?</TD>
       <TD>0.15?</TD>
@@ -1077,8 +1077,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G65.1+0.6.html"&gt;G65.1+0.6&lt;/A&gt;</TD>
-      <TD>19 54 40</TD>
-      <TD>+28 35</TD>
+      <TD>19:54:40</TD>
+      <TD>+28:35</TD>
       <TD>90x50</TD>
       <TD>S</TD>
       <TD>5.5</TD>
@@ -1086,8 +1086,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G65.3+5.7.html"&gt;G65.3+5.7&lt;/A&gt;</TD>
-      <TD>19 33 00</TD>
-      <TD>+31 10</TD>
+      <TD>19:33:00</TD>
+      <TD>+31:10</TD>
       <TD>310x240</TD>
       <TD>S?</TD>
       <TD>42</TD>
@@ -1095,8 +1095,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G65.7+1.2.html"&gt;G65.7+1.2&lt;/A&gt;</TD>
-      <TD>19 52 10</TD>
-      <TD>+29 26</TD>
+      <TD>19:52:10</TD>
+      <TD>+29:26</TD>
       <TD>22</TD>
       <TD>F</TD>
       <TD>5.1</TD>
@@ -1104,8 +1104,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G66.0-0.0.html"&gt;G66.0-0.0&lt;/A&gt;</TD>
-      <TD>19 57 50</TD>
-      <TD>+29 03</TD>
+      <TD>19:57:50</TD>
+      <TD>+29:03</TD>
       <TD>31x25?</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1113,8 +1113,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G67.6+0.9.html"&gt;G67.6+0.9&lt;/A&gt;</TD>
-      <TD>19 57 45</TD>
-      <TD>+30 53</TD>
+      <TD>19:57:45</TD>
+      <TD>+30:53</TD>
       <TD>50x45?</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1122,8 +1122,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G67.7+1.8.html"&gt;G67.7+1.8&lt;/A&gt;</TD>
-      <TD>19 54 32</TD>
-      <TD>+31 29</TD>
+      <TD>19:54:32</TD>
+      <TD>+31:29</TD>
       <TD>15x12</TD>
       <TD>S</TD>
       <TD>1.0</TD>
@@ -1131,8 +1131,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G67.8+0.5.html"&gt;G67.8+0.5&lt;/A&gt;</TD>
-      <TD>20 00 00</TD>
-      <TD>+30 51</TD>
+      <TD>20:00:00</TD>
+      <TD>+30:51</TD>
       <TD>7x5</TD>
       <TD>?</TD>
       <TD>?</TD>
@@ -1140,8 +1140,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G68.6-1.2.html"&gt;G68.6-1.2&lt;/A&gt;</TD>
-      <TD>20 08 40</TD>
-      <TD>+30 37</TD>
+      <TD>20:08:40</TD>
+      <TD>+30:37</TD>
       <TD>23</TD>
       <TD>?</TD>
       <TD>1.1</TD>
@@ -1149,8 +1149,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G69.0+2.7.html"&gt;G69.0+2.7&lt;/A&gt;</TD>
-      <TD>19 53 20</TD>
-      <TD>+32 55</TD>
+      <TD>19:53:20</TD>
+      <TD>+32:55</TD>
       <TD>80?</TD>
       <TD>?</TD>
       <TD>120?</TD>
@@ -1158,8 +1158,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G69.7+1.0.html"&gt;G69.7+1.0&lt;/A&gt;</TD>
-      <TD>20 02 40</TD>
-      <TD>+32 43</TD>
+      <TD>20:02:40</TD>
+      <TD>+32:43</TD>
       <TD>16x14</TD>
       <TD>S</TD>
       <TD>2.0</TD>
@@ -1167,8 +1167,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G70.0-21.5.html"&gt;G70.0-21.5&lt;/A&gt;</TD>
-      <TD>21 24 00</TD>
-      <TD>+19 23</TD>
+      <TD>21:24:00</TD>
+      <TD>+19:23</TD>
       <TD>330x240</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1176,8 +1176,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G73.9+0.9.html"&gt;G73.9+0.9&lt;/A&gt;</TD>
-      <TD>20 14 15</TD>
-      <TD>+36 12</TD>
+      <TD>20:14:15</TD>
+      <TD>+36:12</TD>
       <TD>27</TD>
       <TD>S?</TD>
       <TD>9</TD>
@@ -1185,8 +1185,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G74.0-8.5.html"&gt;G74.0-8.5&lt;/A&gt;</TD>
-      <TD>20 51 00</TD>
-      <TD>+30 40</TD>
+      <TD>20:51:00</TD>
+      <TD>+30:40</TD>
       <TD>230x160</TD>
       <TD>S</TD>
       <TD>210</TD>
@@ -1194,8 +1194,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G74.9+1.2.html"&gt;G74.9+1.2&lt;/A&gt;</TD>
-      <TD>20 16 02</TD>
-      <TD>+37 12</TD>
+      <TD>20:16:02</TD>
+      <TD>+37:12</TD>
       <TD>8x6</TD>
       <TD>F</TD>
       <TD>9</TD>
@@ -1203,8 +1203,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G76.9+1.0.html"&gt;G76.9+1.0&lt;/A&gt;</TD>
-      <TD>20 22 20</TD>
-      <TD>+38 43</TD>
+      <TD>20:22:20</TD>
+      <TD>+38:43</TD>
       <TD>9</TD>
       <TD>C</TD>
       <TD>2?</TD>
@@ -1212,8 +1212,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G78.2+2.1.html"&gt;G78.2+2.1&lt;/A&gt;</TD>
-      <TD>20 20 50</TD>
-      <TD>+40 26</TD>
+      <TD>20:20:50</TD>
+      <TD>+40:26</TD>
       <TD>60</TD>
       <TD>S</TD>
       <TD>320</TD>
@@ -1221,8 +1221,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G82.2+5.3.html"&gt;G82.2+5.3&lt;/A&gt;</TD>
-      <TD>20 19 00</TD>
-      <TD>+45 30</TD>
+      <TD>20:19:00</TD>
+      <TD>+45:30</TD>
       <TD>95x65</TD>
       <TD>S</TD>
       <TD>120?</TD>
@@ -1230,8 +1230,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G83.0-0.3.html"&gt;G83.0-0.3&lt;/A&gt;</TD>
-      <TD>20 46 55</TD>
-      <TD>+42 52</TD>
+      <TD>20:46:55</TD>
+      <TD>+42:52</TD>
       <TD>9x7</TD>
       <TD>S</TD>
       <TD>1</TD>
@@ -1239,8 +1239,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G84.2-0.8.html"&gt;G84.2-0.8&lt;/A&gt;</TD>
-      <TD>20 53 20</TD>
-      <TD>+43 27</TD>
+      <TD>20:53:20</TD>
+      <TD>+43:27</TD>
       <TD>20x16</TD>
       <TD>S</TD>
       <TD>11</TD>
@@ -1248,8 +1248,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G85.4+0.7.html"&gt;G85.4+0.7&lt;/A&gt;</TD>
-      <TD>20 50 40</TD>
-      <TD>+45 22</TD>
+      <TD>20:50:40</TD>
+      <TD>+45:22</TD>
       <TD>24?</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1257,8 +1257,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G85.9-0.6.html"&gt;G85.9-0.6&lt;/A&gt;</TD>
-      <TD>20 58 40</TD>
-      <TD>+44 53</TD>
+      <TD>20:58:40</TD>
+      <TD>+44:53</TD>
       <TD>24</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1266,8 +1266,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G89.0+4.7.html"&gt;G89.0+4.7&lt;/A&gt;</TD>
-      <TD>20 45 00</TD>
-      <TD>+50 35</TD>
+      <TD>20:45:00</TD>
+      <TD>+50:35</TD>
       <TD>120x90</TD>
       <TD>S</TD>
       <TD>220</TD>
@@ -1275,8 +1275,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G93.3+6.9.html"&gt;G93.3+6.9&lt;/A&gt;</TD>
-      <TD>20 52 25</TD>
-      <TD>+55 21</TD>
+      <TD>20:52:25</TD>
+      <TD>+55:21</TD>
       <TD>27x20</TD>
       <TD>C?</TD>
       <TD>9</TD>
@@ -1284,8 +1284,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G93.7-0.2.html"&gt;G93.7-0.2&lt;/A&gt;</TD>
-      <TD>21 29 20</TD>
-      <TD>+50 50</TD>
+      <TD>21:29:20</TD>
+      <TD>+50:50</TD>
       <TD>80</TD>
       <TD>S</TD>
       <TD>65</TD>
@@ -1293,8 +1293,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G94.0+1.0.html"&gt;G94.0+1.0&lt;/A&gt;</TD>
-      <TD>21 24 50</TD>
-      <TD>+51 53</TD>
+      <TD>21:24:50</TD>
+      <TD>+51:53</TD>
       <TD>30x25</TD>
       <TD>S</TD>
       <TD>13</TD>
@@ -1302,8 +1302,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G96.0+2.0.html"&gt;G96.0+2.0&lt;/A&gt;</TD>
-      <TD>21 30 30</TD>
-      <TD>+53 59</TD>
+      <TD>21:30:30</TD>
+      <TD>+53:59</TD>
       <TD>26</TD>
       <TD>S</TD>
       <TD>0.35</TD>
@@ -1311,8 +1311,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G106.3+2.7.html"&gt;G106.3+2.7&lt;/A&gt;</TD>
-      <TD>22 27 30</TD>
-      <TD>+60 50</TD>
+      <TD>22:27:30</TD>
+      <TD>+60:50</TD>
       <TD>60x24</TD>
       <TD>C?</TD>
       <TD>6</TD>
@@ -1320,8 +1320,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G107.0+9.0.html"&gt;G107.0+9.0&lt;/A&gt;</TD>
-      <TD>22 01 00</TD>
-      <TD>+66 30</TD>
+      <TD>22:01:00</TD>
+      <TD>+66:30</TD>
       <TD>180?</TD>
       <TD>?</TD>
       <TD>11?</TD>
@@ -1329,8 +1329,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G108.2-0.6.html"&gt;G108.2-0.6&lt;/A&gt;</TD>
-      <TD>22 53 40</TD>
-      <TD>+58 50</TD>
+      <TD>22:53:40</TD>
+      <TD>+58:50</TD>
       <TD>70x54</TD>
       <TD>S</TD>
       <TD>8</TD>
@@ -1338,8 +1338,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G109.1-1.0.html"&gt;G109.1-1.0&lt;/A&gt;</TD>
-      <TD>23 01 35</TD>
-      <TD>+58 53</TD>
+      <TD>23:01:35</TD>
+      <TD>+58:53</TD>
       <TD>28</TD>
       <TD>S</TD>
       <TD>20</TD>
@@ -1347,8 +1347,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G111.7-2.1.html"&gt;G111.7-2.1&lt;/A&gt;</TD>
-      <TD>23 23 26</TD>
-      <TD>+58 48</TD>
+      <TD>23:23:26</TD>
+      <TD>+58:48</TD>
       <TD>5</TD>
       <TD>S</TD>
       <TD>2300</TD>
@@ -1356,8 +1356,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G113.0+0.2.html"&gt;G113.0+0.2&lt;/A&gt;</TD>
-      <TD>23 26 50</TD>
-      <TD>+61 26</TD>
+      <TD>23:26:50</TD>
+      <TD>+61:26</TD>
       <TD>40x17?</TD>
       <TD>?</TD>
       <TD>4</TD>
@@ -1365,8 +1365,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G114.3+0.3.html"&gt;G114.3+0.3&lt;/A&gt;</TD>
-      <TD>23 37 00</TD>
-      <TD>+61 55</TD>
+      <TD>23:37:00</TD>
+      <TD>+61:55</TD>
       <TD>90x55</TD>
       <TD>S</TD>
       <TD>5.5</TD>
@@ -1374,8 +1374,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G116.5+1.1.html"&gt;G116.5+1.1&lt;/A&gt;</TD>
-      <TD>23 53 40</TD>
-      <TD>+63 15</TD>
+      <TD>23:53:40</TD>
+      <TD>+63:15</TD>
       <TD>80x60</TD>
       <TD>S</TD>
       <TD>10</TD>
@@ -1383,8 +1383,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G116.9+0.2.html"&gt;G116.9+0.2&lt;/A&gt;</TD>
-      <TD>23 59 10</TD>
-      <TD>+62 26</TD>
+      <TD>23:59:10</TD>
+      <TD>+62:26</TD>
       <TD>34</TD>
       <TD>S</TD>
       <TD>8</TD>
@@ -1392,8 +1392,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G119.5+10.2.html"&gt;G119.5+10.2&lt;/A&gt;</TD>
-      <TD>00 06 40</TD>
-      <TD>+72 45</TD>
+      <TD>00:06:40</TD>
+      <TD>+72:45</TD>
       <TD>90?</TD>
       <TD>S</TD>
       <TD>36</TD>
@@ -1401,8 +1401,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G120.1+1.4.html"&gt;G120.1+1.4&lt;/A&gt;</TD>
-      <TD>00 25 18</TD>
-      <TD>+64 09</TD>
+      <TD>00:25:18</TD>
+      <TD>+64:09</TD>
       <TD>8</TD>
       <TD>S</TD>
       <TD>50</TD>
@@ -1410,8 +1410,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G126.2+1.6.html"&gt;G126.2+1.6&lt;/A&gt;</TD>
-      <TD>01 22 00</TD>
-      <TD>+64 15</TD>
+      <TD>01:22:00</TD>
+      <TD>+64:15</TD>
       <TD>70</TD>
       <TD>S?</TD>
       <TD>6</TD>
@@ -1419,8 +1419,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G127.1+0.5.html"&gt;G127.1+0.5&lt;/A&gt;</TD>
-      <TD>01 28 20</TD>
-      <TD>+63 10</TD>
+      <TD>01:28:20</TD>
+      <TD>+63:10</TD>
       <TD>45</TD>
       <TD>S</TD>
       <TD>12</TD>
@@ -1428,8 +1428,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G130.7+3.1.html"&gt;G130.7+3.1&lt;/A&gt;</TD>
-      <TD>02 05 41</TD>
-      <TD>+64 49</TD>
+      <TD>02:05:41</TD>
+      <TD>+64:49</TD>
       <TD>9x5</TD>
       <TD>F</TD>
       <TD>33</TD>
@@ -1437,8 +1437,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G132.7+1.3.html"&gt;G132.7+1.3&lt;/A&gt;</TD>
-      <TD>02 17 40</TD>
-      <TD>+62 45</TD>
+      <TD>02:17:40</TD>
+      <TD>+62:45</TD>
       <TD>80</TD>
       <TD>S</TD>
       <TD>45</TD>
@@ -1446,8 +1446,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G150.3+4.5.html"&gt;G150.3+4.5&lt;/A&gt;</TD>
-      <TD>04 27 00</TD>
-      <TD>+55 28</TD>
+      <TD>04:27:00</TD>
+      <TD>+55:28</TD>
       <TD>180x150</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1455,8 +1455,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G152.4-2.1.html"&gt;G152.4-2.1&lt;/A&gt;</TD>
-      <TD>04 07 50</TD>
-      <TD>+49 11</TD>
+      <TD>04:07:50</TD>
+      <TD>+49:11</TD>
       <TD>100x95</TD>
       <TD>S</TD>
       <TD>3.5?</TD>
@@ -1464,8 +1464,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G156.2+5.7.html"&gt;G156.2+5.7&lt;/A&gt;</TD>
-      <TD>04 58 40</TD>
-      <TD>+51 50</TD>
+      <TD>04:58:40</TD>
+      <TD>+51:50</TD>
       <TD>110</TD>
       <TD>S</TD>
       <TD>5</TD>
@@ -1473,8 +1473,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G159.6+7.3.html"&gt;G159.6+7.3&lt;/A&gt;</TD>
-      <TD>05 20 00</TD>
-      <TD>+50 00</TD>
+      <TD>05:20:00</TD>
+      <TD>+50:00</TD>
       <TD>240x180?</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1482,8 +1482,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G160.9+2.6.html"&gt;G160.9+2.6&lt;/A&gt;</TD>
-      <TD>05 01 00</TD>
-      <TD>+46 40</TD>
+      <TD>05:01:00</TD>
+      <TD>+46:40</TD>
       <TD>140x120</TD>
       <TD>S</TD>
       <TD>110</TD>
@@ -1491,8 +1491,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G166.0+4.3.html"&gt;G166.0+4.3&lt;/A&gt;</TD>
-      <TD>05 26 30</TD>
-      <TD>+42 56</TD>
+      <TD>05:26:30</TD>
+      <TD>+42:56</TD>
       <TD>55x35</TD>
       <TD>S</TD>
       <TD>7</TD>
@@ -1500,8 +1500,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G178.2-4.2.html"&gt;G178.2-4.2&lt;/A&gt;</TD>
-      <TD>05 25 05</TD>
-      <TD>+28 11</TD>
+      <TD>05:25:05</TD>
+      <TD>+28:11</TD>
       <TD>72x62</TD>
       <TD>S</TD>
       <TD>2</TD>
@@ -1509,8 +1509,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G179.0+2.6.html"&gt;G179.0+2.6&lt;/A&gt;</TD>
-      <TD>05 53 40</TD>
-      <TD>+31 05</TD>
+      <TD>05:53:40</TD>
+      <TD>+31:05</TD>
       <TD>70</TD>
       <TD>S?</TD>
       <TD>7</TD>
@@ -1518,8 +1518,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G180.0-1.7.html"&gt;G180.0-1.7&lt;/A&gt;</TD>
-      <TD>05 39 00</TD>
-      <TD>+27 50</TD>
+      <TD>05:39:00</TD>
+      <TD>+27:50</TD>
       <TD>180</TD>
       <TD>S</TD>
       <TD>65</TD>
@@ -1527,8 +1527,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G181.1+9.5.html"&gt;G181.1+9.5&lt;/A&gt;</TD>
-      <TD>06 26 40</TD>
-      <TD>+32 30</TD>
+      <TD>06:26:40</TD>
+      <TD>+32:30</TD>
       <TD>74</TD>
       <TD>S</TD>
       <TD>0.4?</TD>
@@ -1536,8 +1536,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G182.4+4.3.html"&gt;G182.4+4.3&lt;/A&gt;</TD>
-      <TD>06 08 10</TD>
-      <TD>+29 00</TD>
+      <TD>06:08:10</TD>
+      <TD>+29:00</TD>
       <TD>50</TD>
       <TD>S</TD>
       <TD>0.5</TD>
@@ -1545,8 +1545,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G184.6-5.8.html"&gt;G184.6-5.8&lt;/A&gt;</TD>
-      <TD>05 34 31</TD>
-      <TD>+22 01</TD>
+      <TD>05:34:31</TD>
+      <TD>+22:01</TD>
       <TD>7x5</TD>
       <TD>F</TD>
       <TD>900</TD>
@@ -1554,8 +1554,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G189.1+3.0.html"&gt;G189.1+3.0&lt;/A&gt;</TD>
-      <TD>06 17 00</TD>
-      <TD>+22 34</TD>
+      <TD>06:17:00</TD>
+      <TD>+22:34</TD>
       <TD>45</TD>
       <TD>C</TD>
       <TD>165</TD>
@@ -1563,8 +1563,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G190.9-2.2.html"&gt;G190.9-2.2&lt;/A&gt;</TD>
-      <TD>06 01 55</TD>
-      <TD>+18 24</TD>
+      <TD>06:01:55</TD>
+      <TD>+18:24</TD>
       <TD>70x60</TD>
       <TD>S</TD>
       <TD>1.3?</TD>
@@ -1572,8 +1572,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G205.5+0.5.html"&gt;G205.5+0.5&lt;/A&gt;</TD>
-      <TD>06 39 00</TD>
-      <TD>+06 30</TD>
+      <TD>06:39:00</TD>
+      <TD>+06:30</TD>
       <TD>220</TD>
       <TD>S</TD>
       <TD>140</TD>
@@ -1581,8 +1581,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G206.9+2.3.html"&gt;G206.9+2.3&lt;/A&gt;</TD>
-      <TD>06 48 40</TD>
-      <TD>+06 26</TD>
+      <TD>06:48:40</TD>
+      <TD>+06:26</TD>
       <TD>60x40</TD>
       <TD>S?</TD>
       <TD>6</TD>
@@ -1590,8 +1590,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G213.0-0.6.html"&gt;G213.0-0.6&lt;/A&gt;</TD>
-      <TD>06 50 50</TD>
-      <TD>-00 30</TD>
+      <TD>06:50:50</TD>
+      <TD>-00:30</TD>
       <TD>160x140?</TD>
       <TD>S</TD>
       <TD>21</TD>
@@ -1599,8 +1599,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G249.5+24.5.html"&gt;G249.5+24.5&lt;/A&gt;</TD>
-      <TD>09 34 00</TD>
-      <TD>-17 00</TD>
+      <TD>09:34:00</TD>
+      <TD>-17:00</TD>
       <TD>260</TD>
       <TD>S</TD>
       <TD>27</TD>
@@ -1608,8 +1608,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G260.4-3.4.html"&gt;G260.4-3.4&lt;/A&gt;</TD>
-      <TD>08 22 10</TD>
-      <TD>-43 00</TD>
+      <TD>08:22:10</TD>
+      <TD>-43:00</TD>
       <TD>60x50</TD>
       <TD>S</TD>
       <TD>130</TD>
@@ -1617,8 +1617,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G261.9+5.5.html"&gt;G261.9+5.5&lt;/A&gt;</TD>
-      <TD>09 04 20</TD>
-      <TD>-38 42</TD>
+      <TD>09:04:20</TD>
+      <TD>-38:42</TD>
       <TD>40x30</TD>
       <TD>S</TD>
       <TD>10?</TD>
@@ -1626,8 +1626,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G263.9-3.3.html"&gt;G263.9-3.3&lt;/A&gt;</TD>
-      <TD>08 34 00</TD>
-      <TD>-45 50</TD>
+      <TD>08:34:00</TD>
+      <TD>-45:50</TD>
       <TD>255</TD>
       <TD>C</TD>
       <TD>1750</TD>
@@ -1635,8 +1635,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G266.2-1.2.html"&gt;G266.2-1.2&lt;/A&gt;</TD>
-      <TD>08 52 00</TD>
-      <TD>-46 20</TD>
+      <TD>08:52:00</TD>
+      <TD>-46:20</TD>
       <TD>120</TD>
       <TD>S</TD>
       <TD>50?</TD>
@@ -1644,8 +1644,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G272.2-3.2.html"&gt;G272.2-3.2&lt;/A&gt;</TD>
-      <TD>09 06 50</TD>
-      <TD>-52 07</TD>
+      <TD>09:06:50</TD>
+      <TD>-52:07</TD>
       <TD>15?</TD>
       <TD>S?</TD>
       <TD>0.4</TD>
@@ -1653,8 +1653,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G279.0+1.1.html"&gt;G279.0+1.1&lt;/A&gt;</TD>
-      <TD>09 57 40</TD>
-      <TD>-53 15</TD>
+      <TD>09:57:40</TD>
+      <TD>-53:15</TD>
       <TD>95</TD>
       <TD>S</TD>
       <TD>30?</TD>
@@ -1662,8 +1662,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G284.3-1.8.html"&gt;G284.3-1.8&lt;/A&gt;</TD>
-      <TD>10 18 15</TD>
-      <TD>-59 00</TD>
+      <TD>10:18:15</TD>
+      <TD>-59:00</TD>
       <TD>24?</TD>
       <TD>S</TD>
       <TD>11?</TD>
@@ -1671,8 +1671,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G286.5-1.2.html"&gt;G286.5-1.2&lt;/A&gt;</TD>
-      <TD>10 35 40</TD>
-      <TD>-59 42</TD>
+      <TD>10:35:40</TD>
+      <TD>-59:42</TD>
       <TD>26x6</TD>
       <TD>S?</TD>
       <TD>1.4?</TD>
@@ -1680,8 +1680,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G289.7-0.3.html"&gt;G289.7-0.3&lt;/A&gt;</TD>
-      <TD>11 01 15</TD>
-      <TD>-60 18</TD>
+      <TD>11:01:15</TD>
+      <TD>-60:18</TD>
       <TD>18x14</TD>
       <TD>S</TD>
       <TD>6.2</TD>
@@ -1689,8 +1689,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G290.1-0.8.html"&gt;G290.1-0.8&lt;/A&gt;</TD>
-      <TD>11 03 05</TD>
-      <TD>-60 56</TD>
+      <TD>11:03:05</TD>
+      <TD>-60:56</TD>
       <TD>19x14</TD>
       <TD>S</TD>
       <TD>42</TD>
@@ -1698,8 +1698,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G291.0-0.1.html"&gt;G291.0-0.1&lt;/A&gt;</TD>
-      <TD>11 11 54</TD>
-      <TD>-60 38</TD>
+      <TD>11:11:54</TD>
+      <TD>-60:38</TD>
       <TD>15x13</TD>
       <TD>C</TD>
       <TD>16</TD>
@@ -1707,8 +1707,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G292.0+1.8.html"&gt;G292.0+1.8&lt;/A&gt;</TD>
-      <TD>11 24 36</TD>
-      <TD>-59 16</TD>
+      <TD>11:24:36</TD>
+      <TD>-59:16</TD>
       <TD>12x8</TD>
       <TD>C</TD>
       <TD>15</TD>
@@ -1716,8 +1716,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G292.2-0.5.html"&gt;G292.2-0.5&lt;/A&gt;</TD>
-      <TD>11 19 20</TD>
-      <TD>-61 28</TD>
+      <TD>11:19:20</TD>
+      <TD>-61:28</TD>
       <TD>20x15</TD>
       <TD>S</TD>
       <TD>7</TD>
@@ -1725,8 +1725,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G293.8+0.6.html"&gt;G293.8+0.6&lt;/A&gt;</TD>
-      <TD>11 35 00</TD>
-      <TD>-60 54</TD>
+      <TD>11:35:00</TD>
+      <TD>-60:54</TD>
       <TD>20</TD>
       <TD>C</TD>
       <TD>5?</TD>
@@ -1734,8 +1734,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G294.1-0.0.html"&gt;G294.1-0.0&lt;/A&gt;</TD>
-      <TD>11 36 10</TD>
-      <TD>-61 38</TD>
+      <TD>11:36:10</TD>
+      <TD>-61:38</TD>
       <TD>40</TD>
       <TD>S</TD>
       <TD>&amp;gt;2?</TD>
@@ -1743,8 +1743,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G296.1-0.5.html"&gt;G296.1-0.5&lt;/A&gt;</TD>
-      <TD>11 51 10</TD>
-      <TD>-62 34</TD>
+      <TD>11:51:10</TD>
+      <TD>-62:34</TD>
       <TD>37x25</TD>
       <TD>S</TD>
       <TD>8?</TD>
@@ -1752,8 +1752,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G296.5+10.0.html"&gt;G296.5+10.0&lt;/A&gt;</TD>
-      <TD>12 09 40</TD>
-      <TD>-52 25</TD>
+      <TD>12:09:40</TD>
+      <TD>-52:25</TD>
       <TD>90x65</TD>
       <TD>S</TD>
       <TD>48</TD>
@@ -1761,8 +1761,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G296.7-0.9.html"&gt;G296.7-0.9&lt;/A&gt;</TD>
-      <TD>11 55 30</TD>
-      <TD>-63 08</TD>
+      <TD>11:55:30</TD>
+      <TD>-63:08</TD>
       <TD>15x8</TD>
       <TD>S</TD>
       <TD>3</TD>
@@ -1770,8 +1770,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G296.8-0.3.html"&gt;G296.8-0.3&lt;/A&gt;</TD>
-      <TD>11 58 30</TD>
-      <TD>-62 35</TD>
+      <TD>11:58:30</TD>
+      <TD>-62:35</TD>
       <TD>20x14</TD>
       <TD>S</TD>
       <TD>9</TD>
@@ -1779,8 +1779,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G298.5-0.3.html"&gt;G298.5-0.3&lt;/A&gt;</TD>
-      <TD>12 12 40</TD>
-      <TD>-62 52</TD>
+      <TD>12:12:40</TD>
+      <TD>-62:52</TD>
       <TD>5?</TD>
       <TD>?</TD>
       <TD>5?</TD>
@@ -1788,8 +1788,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G298.6-0.0.html"&gt;G298.6-0.0&lt;/A&gt;</TD>
-      <TD>12 13 41</TD>
-      <TD>-62 37</TD>
+      <TD>12:13:41</TD>
+      <TD>-62:37</TD>
       <TD>12x9</TD>
       <TD>S</TD>
       <TD>5?</TD>
@@ -1797,8 +1797,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G299.2-2.9.html"&gt;G299.2-2.9&lt;/A&gt;</TD>
-      <TD>12 15 13</TD>
-      <TD>-65 30</TD>
+      <TD>12:15:13</TD>
+      <TD>-65:30</TD>
       <TD>18x11</TD>
       <TD>S</TD>
       <TD>0.5?</TD>
@@ -1806,8 +1806,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G299.6-0.5.html"&gt;G299.6-0.5&lt;/A&gt;</TD>
-      <TD>12 21 45</TD>
-      <TD>-63 09</TD>
+      <TD>12:21:45</TD>
+      <TD>-63:09</TD>
       <TD>13</TD>
       <TD>S</TD>
       <TD>1.0?</TD>
@@ -1815,8 +1815,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G301.4-1.0.html"&gt;G301.4-1.0&lt;/A&gt;</TD>
-      <TD>12 37 55</TD>
-      <TD>-63 49</TD>
+      <TD>12:37:55</TD>
+      <TD>-63:49</TD>
       <TD>37x23</TD>
       <TD>S</TD>
       <TD>2.1?</TD>
@@ -1824,8 +1824,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G302.3+0.7.html"&gt;G302.3+0.7&lt;/A&gt;</TD>
-      <TD>12 45 55</TD>
-      <TD>-62 08</TD>
+      <TD>12:45:55</TD>
+      <TD>-62:08</TD>
       <TD>17</TD>
       <TD>S</TD>
       <TD>5?</TD>
@@ -1833,8 +1833,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G304.6+0.1.html"&gt;G304.6+0.1&lt;/A&gt;</TD>
-      <TD>13 05 59</TD>
-      <TD>-62 42</TD>
+      <TD>13:05:59</TD>
+      <TD>-62:42</TD>
       <TD>8</TD>
       <TD>S</TD>
       <TD>14</TD>
@@ -1842,8 +1842,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G306.3-0.9.html"&gt;G306.3-0.9&lt;/A&gt;</TD>
-      <TD>13 21 50</TD>
-      <TD>-63 34</TD>
+      <TD>13:21:50</TD>
+      <TD>-63:34</TD>
       <TD>4</TD>
       <TD>S?</TD>
       <TD>0.16?</TD>
@@ -1851,8 +1851,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G308.1-0.7.html"&gt;G308.1-0.7&lt;/A&gt;</TD>
-      <TD>13 37 37</TD>
-      <TD>-63 04</TD>
+      <TD>13:37:37</TD>
+      <TD>-63:04</TD>
       <TD>13</TD>
       <TD>S</TD>
       <TD>1.2?</TD>
@@ -1860,8 +1860,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G308.4-1.4.html"&gt;G308.4-1.4&lt;/A&gt;</TD>
-      <TD>13 41 30</TD>
-      <TD>-63 44</TD>
+      <TD>13:41:30</TD>
+      <TD>-63:44</TD>
       <TD>12x6?</TD>
       <TD>S?</TD>
       <TD>0.4?</TD>
@@ -1869,8 +1869,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G308.8-0.1.html"&gt;G308.8-0.1&lt;/A&gt;</TD>
-      <TD>13 42 30</TD>
-      <TD>-62 23</TD>
+      <TD>13:42:30</TD>
+      <TD>-62:23</TD>
       <TD>30x20?</TD>
       <TD>C?</TD>
       <TD>15?</TD>
@@ -1878,8 +1878,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G309.2-0.6.html"&gt;G309.2-0.6&lt;/A&gt;</TD>
-      <TD>13 46 31</TD>
-      <TD>-62 54</TD>
+      <TD>13:46:31</TD>
+      <TD>-62:54</TD>
       <TD>15x12</TD>
       <TD>S</TD>
       <TD>7?</TD>
@@ -1887,8 +1887,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G309.8+0.0.html"&gt;G309.8+0.0&lt;/A&gt;</TD>
-      <TD>13 50 30</TD>
-      <TD>-62 05</TD>
+      <TD>13:50:30</TD>
+      <TD>-62:05</TD>
       <TD>25x19</TD>
       <TD>S</TD>
       <TD>17</TD>
@@ -1896,8 +1896,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G310.6-1.6.html"&gt;G310.6-1.6&lt;/A&gt;</TD>
-      <TD>14 00 45</TD>
-      <TD>-63 26</TD>
+      <TD>14:00:45</TD>
+      <TD>-63:26</TD>
       <TD>2.5</TD>
       <TD>C?</TD>
       <TD>?</TD>
@@ -1905,8 +1905,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G310.6-0.3.html"&gt;G310.6-0.3&lt;/A&gt;</TD>
-      <TD>13 58 00</TD>
-      <TD>-62 09</TD>
+      <TD>13:58:00</TD>
+      <TD>-62:09</TD>
       <TD>8</TD>
       <TD>S</TD>
       <TD>5?</TD>
@@ -1914,8 +1914,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G310.8-0.4.html"&gt;G310.8-0.4&lt;/A&gt;</TD>
-      <TD>14 00 00</TD>
-      <TD>-62 17</TD>
+      <TD>14:00:00</TD>
+      <TD>-62:17</TD>
       <TD>12</TD>
       <TD>S</TD>
       <TD>6?</TD>
@@ -1923,8 +1923,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G311.5-0.3.html"&gt;G311.5-0.3&lt;/A&gt;</TD>
-      <TD>14 05 38</TD>
-      <TD>-61 58</TD>
+      <TD>14:05:38</TD>
+      <TD>-61:58</TD>
       <TD>5</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -1932,8 +1932,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G312.4-0.4.html"&gt;G312.4-0.4&lt;/A&gt;</TD>
-      <TD>14 13 00</TD>
-      <TD>-61 44</TD>
+      <TD>14:13:00</TD>
+      <TD>-61:44</TD>
       <TD>38</TD>
       <TD>S</TD>
       <TD>45</TD>
@@ -1941,8 +1941,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G312.5-3.0.html"&gt;G312.5-3.0&lt;/A&gt;</TD>
-      <TD>14 21 00</TD>
-      <TD>-64 12</TD>
+      <TD>14:21:00</TD>
+      <TD>-64:12</TD>
       <TD>20x18</TD>
       <TD>S</TD>
       <TD>3.5?</TD>
@@ -1950,8 +1950,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G315.1+2.7.html"&gt;G315.1+2.7&lt;/A&gt;</TD>
-      <TD>14 24 30</TD>
-      <TD>-57 50</TD>
+      <TD>14:24:30</TD>
+      <TD>-57:50</TD>
       <TD>190x150</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -1959,8 +1959,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G315.4-2.3.html"&gt;G315.4-2.3&lt;/A&gt;</TD>
-      <TD>14 43 00</TD>
-      <TD>-62 30</TD>
+      <TD>14:43:00</TD>
+      <TD>-62:30</TD>
       <TD>42</TD>
       <TD>S</TD>
       <TD>49</TD>
@@ -1968,8 +1968,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G315.4-0.3.html"&gt;G315.4-0.3&lt;/A&gt;</TD>
-      <TD>14 35 55</TD>
-      <TD>-60 36</TD>
+      <TD>14:35:55</TD>
+      <TD>-60:36</TD>
       <TD>24x13</TD>
       <TD>?</TD>
       <TD>8</TD>
@@ -1977,8 +1977,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G315.9-0.0.html"&gt;G315.9-0.0&lt;/A&gt;</TD>
-      <TD>14 38 25</TD>
-      <TD>-60 11</TD>
+      <TD>14:38:25</TD>
+      <TD>-60:11</TD>
       <TD>25x14</TD>
       <TD>S</TD>
       <TD>0.8?</TD>
@@ -1986,8 +1986,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G316.3-0.0.html"&gt;G316.3-0.0&lt;/A&gt;</TD>
-      <TD>14 41 30</TD>
-      <TD>-60 00</TD>
+      <TD>14:41:30</TD>
+      <TD>-60:00</TD>
       <TD>29x14</TD>
       <TD>S</TD>
       <TD>20?</TD>
@@ -1995,8 +1995,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G317.3-0.2.html"&gt;G317.3-0.2&lt;/A&gt;</TD>
-      <TD>14 49 40</TD>
-      <TD>-59 46</TD>
+      <TD>14:49:40</TD>
+      <TD>-59:46</TD>
       <TD>11</TD>
       <TD>S</TD>
       <TD>4.7?</TD>
@@ -2004,8 +2004,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G318.2+0.1.html"&gt;G318.2+0.1&lt;/A&gt;</TD>
-      <TD>14 54 50</TD>
-      <TD>-59 04</TD>
+      <TD>14:54:50</TD>
+      <TD>-59:04</TD>
       <TD>40x35</TD>
       <TD>S</TD>
       <TD>&amp;gt;3.9?</TD>
@@ -2013,8 +2013,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G318.9+0.4.html"&gt;G318.9+0.4&lt;/A&gt;</TD>
-      <TD>14 58 30</TD>
-      <TD>-58 29</TD>
+      <TD>14:58:30</TD>
+      <TD>-58:29</TD>
       <TD>30x14</TD>
       <TD>C</TD>
       <TD>4?</TD>
@@ -2022,8 +2022,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G320.4-1.2.html"&gt;G320.4-1.2&lt;/A&gt;</TD>
-      <TD>15 14 30</TD>
-      <TD>-59 08</TD>
+      <TD>15:14:30</TD>
+      <TD>-59:08</TD>
       <TD>35</TD>
       <TD>C</TD>
       <TD>60?</TD>
@@ -2031,8 +2031,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G320.6-1.6.html"&gt;G320.6-1.6&lt;/A&gt;</TD>
-      <TD>15 17 50</TD>
-      <TD>-59 16</TD>
+      <TD>15:17:50</TD>
+      <TD>-59:16</TD>
       <TD>60x30</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -2040,8 +2040,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G321.9-1.1.html"&gt;G321.9-1.1&lt;/A&gt;</TD>
-      <TD>15 23 45</TD>
-      <TD>-58 13</TD>
+      <TD>15:23:45</TD>
+      <TD>-58:13</TD>
       <TD>28</TD>
       <TD>S</TD>
       <TD>&amp;gt;3.4?</TD>
@@ -2049,8 +2049,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G321.9-0.3.html"&gt;G321.9-0.3&lt;/A&gt;</TD>
-      <TD>15 20 40</TD>
-      <TD>-57 34</TD>
+      <TD>15:20:40</TD>
+      <TD>-57:34</TD>
       <TD>31x23</TD>
       <TD>S</TD>
       <TD>13</TD>
@@ -2058,8 +2058,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G322.1+0.0.html"&gt;G322.1+0.0&lt;/A&gt;</TD>
-      <TD>15 20 49</TD>
-      <TD>-57 10</TD>
+      <TD>15:20:49</TD>
+      <TD>-57:10</TD>
       <TD>8x4.5?</TD>
       <TD>S?</TD>
       <TD>?</TD>
@@ -2067,8 +2067,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G322.5-0.1.html"&gt;G322.5-0.1&lt;/A&gt;</TD>
-      <TD>15 23 23</TD>
-      <TD>-57 06</TD>
+      <TD>15:23:23</TD>
+      <TD>-57:06</TD>
       <TD>15</TD>
       <TD>C</TD>
       <TD>1.5</TD>
@@ -2076,8 +2076,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G323.5+0.1.html"&gt;G323.5+0.1&lt;/A&gt;</TD>
-      <TD>15 28 42</TD>
-      <TD>-56 21</TD>
+      <TD>15:28:42</TD>
+      <TD>-56:21</TD>
       <TD>13</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -2085,8 +2085,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G323.7-1.0.html"&gt;G323.7-1.0&lt;/A&gt;</TD>
-      <TD>15 34 30</TD>
-      <TD>-57 12</TD>
+      <TD>15:34:30</TD>
+      <TD>-57:12</TD>
       <TD>51x38</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -2094,8 +2094,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G326.3-1.8.html"&gt;G326.3-1.8&lt;/A&gt;</TD>
-      <TD>15 53 00</TD>
-      <TD>-56 10</TD>
+      <TD>15:53:00</TD>
+      <TD>-56:10</TD>
       <TD>38</TD>
       <TD>C</TD>
       <TD>145</TD>
@@ -2103,8 +2103,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G327.1-1.1.html"&gt;G327.1-1.1&lt;/A&gt;</TD>
-      <TD>15 54 25</TD>
-      <TD>-55 09</TD>
+      <TD>15:54:25</TD>
+      <TD>-55:09</TD>
       <TD>18</TD>
       <TD>C</TD>
       <TD>7?</TD>
@@ -2112,8 +2112,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G327.2-0.1.html"&gt;G327.2-0.1&lt;/A&gt;</TD>
-      <TD>15 50 55</TD>
-      <TD>-54 18</TD>
+      <TD>15:50:55</TD>
+      <TD>-54:18</TD>
       <TD>5</TD>
       <TD>S</TD>
       <TD>0.4</TD>
@@ -2121,8 +2121,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G327.4+0.4.html"&gt;G327.4+0.4&lt;/A&gt;</TD>
-      <TD>15 48 20</TD>
-      <TD>-53 49</TD>
+      <TD>15:48:20</TD>
+      <TD>-53:49</TD>
       <TD>21</TD>
       <TD>S</TD>
       <TD>30?</TD>
@@ -2130,8 +2130,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G327.4+1.0.html"&gt;G327.4+1.0&lt;/A&gt;</TD>
-      <TD>15 46 48</TD>
-      <TD>-53 20</TD>
+      <TD>15:46:48</TD>
+      <TD>-53:20</TD>
       <TD>14</TD>
       <TD>S</TD>
       <TD>1.9?</TD>
@@ -2139,8 +2139,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G327.6+14.6.html"&gt;G327.6+14.6&lt;/A&gt;</TD>
-      <TD>15 02 50</TD>
-      <TD>-41 56</TD>
+      <TD>15:02:50</TD>
+      <TD>-41:56</TD>
       <TD>30</TD>
       <TD>S</TD>
       <TD>19</TD>
@@ -2148,8 +2148,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G328.4+0.2.html"&gt;G328.4+0.2&lt;/A&gt;</TD>
-      <TD>15 55 30</TD>
-      <TD>-53 17</TD>
+      <TD>15:55:30</TD>
+      <TD>-53:17</TD>
       <TD>5</TD>
       <TD>F</TD>
       <TD>15</TD>
@@ -2157,8 +2157,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G329.7+0.4.html"&gt;G329.7+0.4&lt;/A&gt;</TD>
-      <TD>16 01 20</TD>
-      <TD>-52 18</TD>
+      <TD>16:01:20</TD>
+      <TD>-52:18</TD>
       <TD>40x33</TD>
       <TD>S</TD>
       <TD>&amp;gt;34?</TD>
@@ -2166,8 +2166,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G330.0+15.0.html"&gt;G330.0+15.0&lt;/A&gt;</TD>
-      <TD>15 10 00</TD>
-      <TD>-40 00</TD>
+      <TD>15:10:00</TD>
+      <TD>-40:00</TD>
       <TD>180?</TD>
       <TD>S</TD>
       <TD>350?</TD>
@@ -2175,8 +2175,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G330.2+1.0.html"&gt;G330.2+1.0&lt;/A&gt;</TD>
-      <TD>16 01 06</TD>
-      <TD>-51 34</TD>
+      <TD>16:01:06</TD>
+      <TD>-51:34</TD>
       <TD>11</TD>
       <TD>S?</TD>
       <TD>5?</TD>
@@ -2184,8 +2184,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G332.0+0.2.html"&gt;G332.0+0.2&lt;/A&gt;</TD>
-      <TD>16 13 17</TD>
-      <TD>-50 53</TD>
+      <TD>16:13:17</TD>
+      <TD>-50:53</TD>
       <TD>12</TD>
       <TD>S</TD>
       <TD>8?</TD>
@@ -2193,8 +2193,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G332.4-0.4.html"&gt;G332.4-0.4&lt;/A&gt;</TD>
-      <TD>16 17 33</TD>
-      <TD>-51 02</TD>
+      <TD>16:17:33</TD>
+      <TD>-51:02</TD>
       <TD>10</TD>
       <TD>S</TD>
       <TD>28</TD>
@@ -2202,8 +2202,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G332.4+0.1.html"&gt;G332.4+0.1&lt;/A&gt;</TD>
-      <TD>16 15 20</TD>
-      <TD>-50 42</TD>
+      <TD>16:15:20</TD>
+      <TD>-50:42</TD>
       <TD>15</TD>
       <TD>S</TD>
       <TD>26</TD>
@@ -2211,8 +2211,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G332.5-5.6.html"&gt;G332.5-5.6&lt;/A&gt;</TD>
-      <TD>16 43 20</TD>
-      <TD>-54 30</TD>
+      <TD>16:43:20</TD>
+      <TD>-54:30</TD>
       <TD>35</TD>
       <TD>S</TD>
       <TD>2?</TD>
@@ -2220,8 +2220,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G335.2+0.1.html"&gt;G335.2+0.1&lt;/A&gt;</TD>
-      <TD>16 27 45</TD>
-      <TD>-48 47</TD>
+      <TD>16:27:45</TD>
+      <TD>-48:47</TD>
       <TD>21</TD>
       <TD>S</TD>
       <TD>16</TD>
@@ -2229,8 +2229,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G336.7+0.5.html"&gt;G336.7+0.5&lt;/A&gt;</TD>
-      <TD>16 32 11</TD>
-      <TD>-47 19</TD>
+      <TD>16:32:11</TD>
+      <TD>-47:19</TD>
       <TD>14x10</TD>
       <TD>S</TD>
       <TD>6</TD>
@@ -2238,8 +2238,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G337.0-0.1.html"&gt;G337.0-0.1&lt;/A&gt;</TD>
-      <TD>16 35 57</TD>
-      <TD>-47 36</TD>
+      <TD>16:35:57</TD>
+      <TD>-47:36</TD>
       <TD>1.5</TD>
       <TD>S</TD>
       <TD>1.5</TD>
@@ -2247,8 +2247,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G337.2-0.7.html"&gt;G337.2-0.7&lt;/A&gt;</TD>
-      <TD>16 39 28</TD>
-      <TD>-47 51</TD>
+      <TD>16:39:28</TD>
+      <TD>-47:51</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>1.5</TD>
@@ -2256,8 +2256,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G337.2+0.1.html"&gt;G337.2+0.1&lt;/A&gt;</TD>
-      <TD>16 35 55</TD>
-      <TD>-47 20</TD>
+      <TD>16:35:55</TD>
+      <TD>-47:20</TD>
       <TD>3x2</TD>
       <TD>?</TD>
       <TD>1.5?</TD>
@@ -2265,8 +2265,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G337.3+1.0.html"&gt;G337.3+1.0&lt;/A&gt;</TD>
-      <TD>16 32 39</TD>
-      <TD>-46 36</TD>
+      <TD>16:32:39</TD>
+      <TD>-46:36</TD>
       <TD>15x12</TD>
       <TD>S</TD>
       <TD>16</TD>
@@ -2274,8 +2274,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G337.8-0.1.html"&gt;G337.8-0.1&lt;/A&gt;</TD>
-      <TD>16 39 01</TD>
-      <TD>-46 59</TD>
+      <TD>16:39:01</TD>
+      <TD>-46:59</TD>
       <TD>9x6</TD>
       <TD>S</TD>
       <TD>15</TD>
@@ -2283,8 +2283,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G338.1+0.4.html"&gt;G338.1+0.4&lt;/A&gt;</TD>
-      <TD>16 37 59</TD>
-      <TD>-46 24</TD>
+      <TD>16:37:59</TD>
+      <TD>-46:24</TD>
       <TD>15?</TD>
       <TD>S</TD>
       <TD>4?</TD>
@@ -2292,8 +2292,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G338.3-0.0.html"&gt;G338.3-0.0&lt;/A&gt;</TD>
-      <TD>16 41 00</TD>
-      <TD>-46 34</TD>
+      <TD>16:41:00</TD>
+      <TD>-46:34</TD>
       <TD>8</TD>
       <TD>C?</TD>
       <TD>7?</TD>
@@ -2301,8 +2301,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G338.5+0.1.html"&gt;G338.5+0.1&lt;/A&gt;</TD>
-      <TD>16 41 09</TD>
-      <TD>-46 19</TD>
+      <TD>16:41:09</TD>
+      <TD>-46:19</TD>
       <TD>9</TD>
       <TD>?</TD>
       <TD>12?</TD>
@@ -2310,8 +2310,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G340.4+0.4.html"&gt;G340.4+0.4&lt;/A&gt;</TD>
-      <TD>16 46 31</TD>
-      <TD>-44 39</TD>
+      <TD>16:46:31</TD>
+      <TD>-44:39</TD>
       <TD>10x7</TD>
       <TD>S</TD>
       <TD>5</TD>
@@ -2319,8 +2319,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G340.6+0.3.html"&gt;G340.6+0.3&lt;/A&gt;</TD>
-      <TD>16 47 41</TD>
-      <TD>-44 34</TD>
+      <TD>16:47:41</TD>
+      <TD>-44:34</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>5?</TD>
@@ -2328,8 +2328,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G341.2+0.9.html"&gt;G341.2+0.9&lt;/A&gt;</TD>
-      <TD>16 47 35</TD>
-      <TD>-43 47</TD>
+      <TD>16:47:35</TD>
+      <TD>-43:47</TD>
       <TD>22x16</TD>
       <TD>C</TD>
       <TD>1.5?</TD>
@@ -2337,8 +2337,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G341.9-0.3.html"&gt;G341.9-0.3&lt;/A&gt;</TD>
-      <TD>16 55 01</TD>
-      <TD>-44 01</TD>
+      <TD>16:55:01</TD>
+      <TD>-44:01</TD>
       <TD>7</TD>
       <TD>S</TD>
       <TD>2.5</TD>
@@ -2346,8 +2346,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G342.0-0.2.html"&gt;G342.0-0.2&lt;/A&gt;</TD>
-      <TD>16 54 50</TD>
-      <TD>-43 53</TD>
+      <TD>16:54:50</TD>
+      <TD>-43:53</TD>
       <TD>12x9</TD>
       <TD>S</TD>
       <TD>3.5?</TD>
@@ -2355,8 +2355,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G342.1+0.9.html"&gt;G342.1+0.9&lt;/A&gt;</TD>
-      <TD>16 50 43</TD>
-      <TD>-43 04</TD>
+      <TD>16:50:43</TD>
+      <TD>-43:04</TD>
       <TD>10x9</TD>
       <TD>S</TD>
       <TD>0.5?</TD>
@@ -2364,8 +2364,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G343.0-6.0.html"&gt;G343.0-6.0&lt;/A&gt;</TD>
-      <TD>17 25 00</TD>
-      <TD>-46 30</TD>
+      <TD>17:25:00</TD>
+      <TD>-46:30</TD>
       <TD>250</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -2373,8 +2373,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G343.1-2.3.html"&gt;G343.1-2.3&lt;/A&gt;</TD>
-      <TD>17 08 00</TD>
-      <TD>-44 16</TD>
+      <TD>17:08:00</TD>
+      <TD>-44:16</TD>
       <TD>32?</TD>
       <TD>C?</TD>
       <TD>8?</TD>
@@ -2382,8 +2382,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G343.1-0.7.html"&gt;G343.1-0.7&lt;/A&gt;</TD>
-      <TD>17 00 25</TD>
-      <TD>-43 14</TD>
+      <TD>17:00:25</TD>
+      <TD>-43:14</TD>
       <TD>27x21</TD>
       <TD>S</TD>
       <TD>7.8</TD>
@@ -2391,8 +2391,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G344.7-0.1.html"&gt;G344.7-0.1&lt;/A&gt;</TD>
-      <TD>17 03 51</TD>
-      <TD>-41 42</TD>
+      <TD>17:03:51</TD>
+      <TD>-41:42</TD>
       <TD>8</TD>
       <TD>C?</TD>
       <TD>2.5?</TD>
@@ -2400,8 +2400,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G345.1-0.2.html"&gt;G345.1-0.2&lt;/A&gt;</TD>
-      <TD>17 05 21</TD>
-      <TD>-41 26</TD>
+      <TD>17:05:21</TD>
+      <TD>-41:26</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>1.4?</TD>
@@ -2409,8 +2409,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G345.1+0.2.html"&gt;G345.1+0.2&lt;/A&gt;</TD>
-      <TD>17 03 40</TD>
-      <TD>-41 05</TD>
+      <TD>17:03:40</TD>
+      <TD>-41:05</TD>
       <TD>10</TD>
       <TD>S</TD>
       <TD>0.6?</TD>
@@ -2418,8 +2418,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G345.7-0.2.html"&gt;G345.7-0.2&lt;/A&gt;</TD>
-      <TD>17 07 20</TD>
-      <TD>-40 53</TD>
+      <TD>17:07:20</TD>
+      <TD>-40:53</TD>
       <TD>6</TD>
       <TD>S</TD>
       <TD>0.6?</TD>
@@ -2427,8 +2427,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G346.6-0.2.html"&gt;G346.6-0.2&lt;/A&gt;</TD>
-      <TD>17 10 19</TD>
-      <TD>-40 11</TD>
+      <TD>17:10:19</TD>
+      <TD>-40:11</TD>
       <TD>8</TD>
       <TD>S</TD>
       <TD>8?</TD>
@@ -2436,8 +2436,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G347.3-0.5.html"&gt;G347.3-0.5&lt;/A&gt;</TD>
-      <TD>17 13 50</TD>
-      <TD>-39 45</TD>
+      <TD>17:13:50</TD>
+      <TD>-39:45</TD>
       <TD>65x55</TD>
       <TD>S?</TD>
       <TD>30?</TD>
@@ -2445,8 +2445,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G348.5-0.0.html"&gt;G348.5-0.0&lt;/A&gt;</TD>
-      <TD>17 15 26</TD>
-      <TD>-38 28</TD>
+      <TD>17:15:26</TD>
+      <TD>-38:28</TD>
       <TD>10?</TD>
       <TD>S?</TD>
       <TD>10?</TD>
@@ -2454,8 +2454,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G348.5+0.1.html"&gt;G348.5+0.1&lt;/A&gt;</TD>
-      <TD>17 14 06</TD>
-      <TD>-38 32</TD>
+      <TD>17:14:06</TD>
+      <TD>-38:32</TD>
       <TD>15</TD>
       <TD>S</TD>
       <TD>72</TD>
@@ -2463,8 +2463,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G348.7+0.3.html"&gt;G348.7+0.3&lt;/A&gt;</TD>
-      <TD>17 13 55</TD>
-      <TD>-38 11</TD>
+      <TD>17:13:55</TD>
+      <TD>-38:11</TD>
       <TD>17?</TD>
       <TD>S</TD>
       <TD>26</TD>
@@ -2472,8 +2472,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G348.8+1.1.html"&gt;G348.8+1.1&lt;/A&gt;</TD>
-      <TD>17 11 29</TD>
-      <TD>-37 36</TD>
+      <TD>17:11:29</TD>
+      <TD>-37:36</TD>
       <TD>10</TD>
       <TD>S</TD>
       <TD>0.6?</TD>
@@ -2481,8 +2481,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G349.2-0.1.html"&gt;G349.2-0.1&lt;/A&gt;</TD>
-      <TD>17 17 15</TD>
-      <TD>-38 04</TD>
+      <TD>17:17:15</TD>
+      <TD>-38:04</TD>
       <TD>9x6</TD>
       <TD>S</TD>
       <TD>1.4?</TD>
@@ -2490,8 +2490,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G349.7+0.2.html"&gt;G349.7+0.2&lt;/A&gt;</TD>
-      <TD>17 17 59</TD>
-      <TD>-37 26</TD>
+      <TD>17:17:59</TD>
+      <TD>-37:26</TD>
       <TD>2.5x2</TD>
       <TD>S</TD>
       <TD>20</TD>
@@ -2499,8 +2499,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G350.0-2.0.html"&gt;G350.0-2.0&lt;/A&gt;</TD>
-      <TD>17 27 50</TD>
-      <TD>-38 32</TD>
+      <TD>17:27:50</TD>
+      <TD>-38:32</TD>
       <TD>45</TD>
       <TD>S</TD>
       <TD>26</TD>
@@ -2508,8 +2508,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G350.1-0.3.html"&gt;G350.1-0.3&lt;/A&gt;</TD>
-      <TD>17 21 05</TD>
-      <TD>-37 27</TD>
+      <TD>17:21:05</TD>
+      <TD>-37:27</TD>
       <TD>4?</TD>
       <TD>?</TD>
       <TD>6?</TD>
@@ -2517,8 +2517,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G351.0-5.4.html"&gt;G351.0-5.4&lt;/A&gt;</TD>
-      <TD>17 46 00</TD>
-      <TD>-39 25</TD>
+      <TD>17:46:00</TD>
+      <TD>-39:25</TD>
       <TD>30</TD>
       <TD>S</TD>
       <TD>?</TD>
@@ -2526,8 +2526,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G351.2+0.1.html"&gt;G351.2+0.1&lt;/A&gt;</TD>
-      <TD>17 22 27</TD>
-      <TD>-36 11</TD>
+      <TD>17:22:27</TD>
+      <TD>-36:11</TD>
       <TD>7</TD>
       <TD>C?</TD>
       <TD>5?</TD>
@@ -2535,8 +2535,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G351.7+0.8.html"&gt;G351.7+0.8&lt;/A&gt;</TD>
-      <TD>17 21 00</TD>
-      <TD>-35 27</TD>
+      <TD>17:21:00</TD>
+      <TD>-35:27</TD>
       <TD>18x14</TD>
       <TD>S</TD>
       <TD>10</TD>
@@ -2544,8 +2544,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G351.9-0.9.html"&gt;G351.9-0.9&lt;/A&gt;</TD>
-      <TD>17 28 52</TD>
-      <TD>-36 16</TD>
+      <TD>17:28:52</TD>
+      <TD>-36:16</TD>
       <TD>12x9</TD>
       <TD>S</TD>
       <TD>1.8?</TD>
@@ -2553,8 +2553,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G352.7-0.1.html"&gt;G352.7-0.1&lt;/A&gt;</TD>
-      <TD>17 27 40</TD>
-      <TD>-35 07</TD>
+      <TD>17:27:40</TD>
+      <TD>-35:07</TD>
       <TD>8x6</TD>
       <TD>S</TD>
       <TD>4</TD>
@@ -2562,8 +2562,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G353.3-1.1.html"&gt;G353.3-1.1&lt;/A&gt;</TD>
-      <TD>17 33 10</TD>
-      <TD>-35 12</TD>
+      <TD>17:33:10</TD>
+      <TD>-35:12</TD>
       <TD>60</TD>
       <TD>S</TD>
       <TD>24?</TD>
@@ -2571,8 +2571,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G353.6-0.7.html"&gt;G353.6-0.7&lt;/A&gt;</TD>
-      <TD>17 32 00</TD>
-      <TD>-34 44</TD>
+      <TD>17:32:00</TD>
+      <TD>-34:44</TD>
       <TD>30</TD>
       <TD>S</TD>
       <TD>2.5?</TD>
@@ -2580,8 +2580,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G353.9-2.0.html"&gt;G353.9-2.0&lt;/A&gt;</TD>
-      <TD>17 38 55</TD>
-      <TD>-35 11</TD>
+      <TD>17:38:55</TD>
+      <TD>-35:11</TD>
       <TD>13</TD>
       <TD>S</TD>
       <TD>1?</TD>
@@ -2589,8 +2589,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G354.1+0.1.html"&gt;G354.1+0.1&lt;/A&gt;</TD>
-      <TD>17 30 28</TD>
-      <TD>-33 46</TD>
+      <TD>17:30:28</TD>
+      <TD>-33:46</TD>
       <TD>15x3?</TD>
       <TD>C?</TD>
       <TD>?</TD>
@@ -2598,8 +2598,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G354.8-0.8.html"&gt;G354.8-0.8&lt;/A&gt;</TD>
-      <TD>17 36 00</TD>
-      <TD>-33 42</TD>
+      <TD>17:36:00</TD>
+      <TD>-33:42</TD>
       <TD>19</TD>
       <TD>S</TD>
       <TD>2.8?</TD>
@@ -2607,8 +2607,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G355.4+0.7.html"&gt;G355.4+0.7&lt;/A&gt;</TD>
-      <TD>17 31 20</TD>
-      <TD>-32 26</TD>
+      <TD>17:31:20</TD>
+      <TD>-32:26</TD>
       <TD>25</TD>
       <TD>S</TD>
       <TD>5?</TD>
@@ -2616,8 +2616,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G355.6-0.0.html"&gt;G355.6-0.0&lt;/A&gt;</TD>
-      <TD>17 35 16</TD>
-      <TD>-32 38</TD>
+      <TD>17:35:16</TD>
+      <TD>-32:38</TD>
       <TD>8x6</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -2625,8 +2625,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G355.9-2.5.html"&gt;G355.9-2.5&lt;/A&gt;</TD>
-      <TD>17 45 53</TD>
-      <TD>-33 43</TD>
+      <TD>17:45:53</TD>
+      <TD>-33:43</TD>
       <TD>13</TD>
       <TD>S</TD>
       <TD>8</TD>
@@ -2634,8 +2634,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G356.2+4.5.html"&gt;G356.2+4.5&lt;/A&gt;</TD>
-      <TD>17 19 00</TD>
-      <TD>-29 40</TD>
+      <TD>17:19:00</TD>
+      <TD>-29:40</TD>
       <TD>25</TD>
       <TD>S</TD>
       <TD>4</TD>
@@ -2643,8 +2643,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G356.3-1.5.html"&gt;G356.3-1.5&lt;/A&gt;</TD>
-      <TD>17 42 35</TD>
-      <TD>-32 52</TD>
+      <TD>17:42:35</TD>
+      <TD>-32:52</TD>
       <TD>20x15</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -2652,8 +2652,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G356.3-0.3.html"&gt;G356.3-0.3&lt;/A&gt;</TD>
-      <TD>17 37 56</TD>
-      <TD>-32 16</TD>
+      <TD>17:37:56</TD>
+      <TD>-32:16</TD>
       <TD>11x7</TD>
       <TD>S</TD>
       <TD>3?</TD>
@@ -2661,8 +2661,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G357.7-0.1.html"&gt;G357.7-0.1&lt;/A&gt;</TD>
-      <TD>17 40 29</TD>
-      <TD>-30 58</TD>
+      <TD>17:40:29</TD>
+      <TD>-30:58</TD>
       <TD>8x3?</TD>
       <TD>?</TD>
       <TD>37</TD>
@@ -2670,8 +2670,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G357.7+0.3.html"&gt;G357.7+0.3&lt;/A&gt;</TD>
-      <TD>17 38 35</TD>
-      <TD>-30 44</TD>
+      <TD>17:38:35</TD>
+      <TD>-30:44</TD>
       <TD>24</TD>
       <TD>S</TD>
       <TD>10</TD>
@@ -2679,8 +2679,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G358.0+3.8.html"&gt;G358.0+3.8&lt;/A&gt;</TD>
-      <TD>17 26 00</TD>
-      <TD>-28 36</TD>
+      <TD>17:26:00</TD>
+      <TD>-28:36</TD>
       <TD>38</TD>
       <TD>S</TD>
       <TD>1.5?</TD>
@@ -2688,8 +2688,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G358.1+1.0.html"&gt;G358.1+1.0&lt;/A&gt;</TD>
-      <TD>17 37 00</TD>
-      <TD>-29 59</TD>
+      <TD>17:37:00</TD>
+      <TD>-29:59</TD>
       <TD>20</TD>
       <TD>S</TD>
       <TD>2?</TD>
@@ -2697,8 +2697,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G358.5-0.9.html"&gt;G358.5-0.9&lt;/A&gt;</TD>
-      <TD>17 46 10</TD>
-      <TD>-30 40</TD>
+      <TD>17:46:10</TD>
+      <TD>-30:40</TD>
       <TD>17</TD>
       <TD>S</TD>
       <TD>4?</TD>
@@ -2706,8 +2706,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G359.0-0.9.html"&gt;G359.0-0.9&lt;/A&gt;</TD>
-      <TD>17 46 50</TD>
-      <TD>-30 16</TD>
+      <TD>17:46:50</TD>
+      <TD>-30:16</TD>
       <TD>23</TD>
       <TD>S</TD>
       <TD>23</TD>
@@ -2715,8 +2715,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G359.1-0.5.html"&gt;G359.1-0.5&lt;/A&gt;</TD>
-      <TD>17 45 30</TD>
-      <TD>-29 57</TD>
+      <TD>17:45:30</TD>
+      <TD>-29:57</TD>
       <TD>24</TD>
       <TD>S</TD>
       <TD>14</TD>
@@ -2724,8 +2724,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G359.1+0.9.html"&gt;G359.1+0.9&lt;/A&gt;</TD>
-      <TD>17 39 36</TD>
-      <TD>-29 11</TD>
+      <TD>17:39:36</TD>
+      <TD>-29:11</TD>
       <TD>12x11</TD>
       <TD>S</TD>
       <TD>2?</TD>
@@ -2733,8 +2733,8 @@
      </TR>
      <TR>
       <TD>&lt;A href="https://www.mrao.cam.ac.uk/surveys/snrs/snrs.G359.2-1.1.html"&gt;G359.2-1.1&lt;/A&gt;</TD>
-      <TD>17 48 14</TD>
-      <TD>-30 12</TD>
+      <TD>17:48:14</TD>
+      <TD>-30:12</TD>
       <TD>5x4</TD>
       <TD>S?</TD>
       <TD>0.4?</TD>
