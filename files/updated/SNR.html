@@ -2,45 +2,51 @@
 <!doctype html>
 <html>
 <head>
+
 </head>
+
 <body>
 
 <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
 
-
+<H2>Aladin-lite visualization of SNRs</H2>
 Image Opacity: <br/> <input id="slider" type="range" value=0.5 min=0 max=1 step=0.05 ; style="width:150px;height:5px;line-height:0%">
+
 <br/>
 <br/>
 <div id="aladin-lite-div" style="width:840px;height:600px"></div>
 
+
 Base 
-<input id="DSS" type="radio" name="survey" value="P/DSS2/Color"><label for="DSS">Optical (DSS2)  <label>
-<input id="2MASS" type="radio" name="survey" value="P/2MASS/Color"><label for="2MASS">2MASS<label>
-<input id="WISE" type="radio" name="survey" value="WISE"><label for="WISE">AllWISE<label>
-<input id="VLASS1.1" type="radio" name="survey" value="VLASS1.1" checked><label for="VLASS1.1">VLASS1.1<label>
-<input id="VLASS1.2" type="radio" name="survey" value="VLASS1.2"><label for="VLASS1.2">VLASS1.2<label>
-<input id="VLASS2.1" type="radio" name="survey" value="VLASS2.1"><label for="VLASS2.1">VLASS2.1<label>
-<input id="VLASS2.2" type="radio" name="survey" value="VLASS2.2"><label for="VLASS2.2">VLASS2.2<label>
-<input id="VLASS3.1" type="radio" name="survey" value="VLASS3.1"><label for="VLASS3.1">VLASS3.1 (underway)<label>
+<input id="DSS" type="radio" name="survey" value="P/DSS2/Color"><label for="DSS"> <label> <A HREF="https://alasky.cds.unistra.fr/DSS/DSSColor/">Optical (DSS2)</A>
+<input id="2MASS" type="radio" name="survey" value="P/2MASS/Color"><label for="2MASS"> <label> <A HREF="https://alasky.cds.unistra.fr/2MASS/Color/">2MASS</A>
+<input id="WISE" type="radio" name="survey" value="WISE"><label for="WISE"> <label> <A HREF="https://alasky.cds.unistra.fr/AllWISE/RGB-W4-W2-W1/">AllWISE</A>
+<input id="VLASS1.1" type="radio" name="survey" value="VLASS1.1" checked><label for="VLASS1.1"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VLASS1.1v2/Quicklook/">VLASS1.1</A>
+<input id="VLASS1.2" type="radio" name="survey" value="VLASS1.2"><label for="VLASS1.2"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VLASS1.2v2/Quicklook/">VLASS1.2</A>
+<input id="VLASS2.1" type="radio" name="survey" value="VLASS2.1"><label for="VLASS2.1"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VLASS2.1/Quicklook/">VLASS2.1</A>
+<input id="VLASS2.2" type="radio" name="survey" value="VLASS2.2"><label for="VLASS2.2"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VLASS2.2/Quicklook/">VLASS2.2</A>
+<input id="VLASS3.1" type="radio" name="survey" value="VLASS3.1"><label for="VLASS3.1"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VLASS3.1/Quicklook/">VLASS3.1 (underway)</A>
 <br/>
-<input id="VLASS_Epoch1" type="radio" name="survey" value="VLASS_Epoch1"><label for="VLASS_Epoch1">VLASS Epoch1<label>
-<input id="VCSS1" type="radio" name="survey" value="VCSS1"><label for="VCSS1">VCSS1<label>
-<input id="NVSS" type="radio" name="survey" value="NVSS"><label for="NVSS">NVSS<label>
-<input id="RACS-m" type="radio" name="survey" value="RACS-m"><label for="RACS-m">RACS-m<label>
-<input id="RACS-l" type="radio" name="survey" value="RACS-l"><label for="RACS-l">RACS-l<label>
-<input id="CGPS-VGPS CONT" type="radio" name="survey" value="CGPS-VGPS CONT"><label for="CGPS-VGPS CONT">CGPS-VGPS CONT<label>
-<input id="SUMSS" type="radio" name="survey" value="SUMSS"><label for="SUMSS">SUMSS<label>
+<input id="VLASS_Epoch1" type="radio" name="survey" value="VLASS_Epoch1"><label for="VLASS_Epoch1"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VLASS_Epoch1/Quicklook/">VLASS Epoch1</A>
+<input id="VCSS1" type="radio" name="survey" value="VCSS1"><label for="VCSS1"> <label> <A HREF="http://archive-new.nrao.edu/vlass/HiPS/VCSS1/Images_vcss1_HiPS/">VCSS1</A>
+<input id="NVSS" type="radio" name="survey" value="NVSS"><label for="NVSS"> <label> <A HREF="https://alasky.cds.unistra.fr/NVSS/intensity/">NVSS</A>
+<input id="RACS-m" type="radio" name="survey" value="RACS-m"><label for="RACS-m"> <label> <A HREF="https://casda.csiro.au/hips/RACS/mid/I/">RACS-m</A>
+<input id="RACS-l" type="radio" name="survey" value="RACS-l"><label for="RACS-l"> </label> <label> <A HREF="https://casda.csiro.au/hips/RACS/low/I/">RACS-l</A>
+<input id="CGPS-VGPS CONT" type="radio" name="survey" value="CGPS-VGPS CONT"><label for="CGPS-VGPS CONT"> <label> <A HREF="http://cade.irap.omp.eu/documents/Ancillary/4Aladin/CGPS_CONT/">CGPS-VGPS CONT</A>
+<input id="SUMSS" type="radio" name="survey" value="SUMSS"><label for="SUMSS"> <label> <A HREF="https://alasky.cds.unistra.fr/SUMSS/">SUMSS</A>
 
 <br/> Overlay   
-<input id="XMM" type="radio" name="survey2" value="XMM"><label for="XMM">XMM<label>
-<input id="CXO" type="radio" name="survey2" value="CXO" checked><label for="CXO">CXO<label>
-<input id="RASS" type="radio" name="survey2" value="RASS"><label for="RASS">RASS<label>
-<input id="BAT" type="radio" name="survey2" value="BAT"><label for="BAT">Swift BAT<label>
-<input id="Fermi" type="radio" name="survey2" value="Fermi"><label for="Fermi">Fermi<label>
-<input id="HGPS" type="radio" name="survey2" value="HGPS"><label for="HGPS">HESS GPS<label>
-    
+<input id="XMM" type="radio" name="survey2" value="XMM"><label for="XMM"> <label> <A HREF="https://xcatdb.unistra.fr/PNColor/">XMM</A>
+<input id="CXO" type="radio" name="survey2" value="CXO" checked><label for="CXO"> <label> <A HREF="https://cdaftp.cfa.harvard.edu/cxc-hips/">CXO</A>
+<input id="RASS" type="radio" name="survey2" value="RASS"><label for="RASS"> <label> <A HREF="https://alasky.cds.unistra.fr/RASS/">RASS</A>
+<input id="BAT" type="radio" name="survey2" value="BAT"><label for="BAT"> <label> <A HREF="https://data.darts.isas.jaxa.jp/pub/HiPS/SWIFT-BAT_Image/">Swift BAT</A>
+<input id="Fermi" type="radio" name="survey2" value="Fermi"><label for="Fermi"> <label> <A HREF="https://alasky.cds.unistra.fr/Fermi/Color/">Fermi</A>
+<input id="HGPS" type="radio" name="survey2" value="HGPS"><label for="HGPS"> <label> <A HREF="https://alasky.cds.unistra.fr/pub/10.1051_0004-6361_201732098flux/">HESS GPS</A>
 
-<div id='aladin-statsDiv'></div>
+<br/> Catalogues Citations:  <A HREF="https://www.mrao.cam.ac.uk/surveys/snrs/">SNR</A>, <A HREF="http://tevcat2.uchicago.edu/">TeVCat</A>, <A HREF="https://www.astro.puc.cl/BlackCAT/">BlackCAT</A>, <A HREF="https://www.atnf.csiro.au/research/pulsar/psrcat/">ATNF</A>,
+<A HREF="https://fermi.gsfc.nasa.gov/ssc/data/access/lat/14yr_catalog/">4FGL</A>,<A HREF="https://data.darts.isas.jaxa.jp/pub/HiPS/CHANDRA_Catalogue/">CSC</A>,<A HREF="https://data.darts.isas.jaxa.jp/pub/HiPS/XMM-EPIC_Catalogue/">XMM</A>,<A HREF="https://data.darts.isas.jaxa.jp/pub/HiPS/SWIFT-XRT_Catalogue/">XRT</A>,
+<A HREF="https://axel.u-strasbg.fr/HiPSCatService/Simbad">Simbad</A>
+<!-- <div id='aladin-statsDiv'></div> -->
 
 <script type="text/javascript" src="./aladin.js" charset="utf-8"></script>
 
@@ -120,8 +126,8 @@ Base
             } else if (surveyName === "WISE") {
                 aladin.setBaseImageLayer("CDS/P/allWISE/color");
             } else if (surveyName === "RACS-m") {
-                aladin.setBaseImageLayer("https://casda.csiro.au/hips/RACS/mid/I/");
-                // aladin.setBaseImageLayer("CSIRO/P/RACS/mid/I");
+                // aladin.setBaseImageLayer("https://casda.csiro.au/hips/RACS/mid/I/");
+                aladin.setBaseImageLayer("CSIRO/P/RACS/mid/I");
             } else if (surveyName === "RACS-l") {
                 aladin.setBaseImageLayer("CSIRO/P/RACS/low/I");
             } else if (surveyName === "VLASS1.1") {
@@ -166,29 +172,37 @@ Base
         });
 
         var hips2 = A.catalogHiPS('https://axel.u-strasbg.fr/HiPSCatService/Simbad', {onClick: 'showTable', name: 'Simbad',sourceSize: 5});
+        hips2.hide();
         aladin.addCatalog(hips2);
 
         var hips = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/SWIFT-XRT_Catalogue/', {onClick: 'showPopup',  sourceSize: 10,  name: 'XRT',shape:'circle'});
-         aladin.addCatalog(hips);
+        hips.hide(); 
+        aladin.addCatalog(hips);
 
          // var hips5 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/4XMM-DR13.vot', {onClick: 'showPopup', sourceSize: 10,  name:'XMM',shape:'circle', color:'orange'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
          var hips5 = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/XMM-EPIC_Catalogue/', {onClick: 'showTable', sourceSize: 10, name: 'XMM',shape:'circle' });
+         hips5.hide();
          aladin.addCatalog(hips5);
 
          var hips6 = A.catalogHiPS('https://data.darts.isas.jaxa.jp/pub/HiPS/CHANDRA_Catalogue/', {onClick: 'showTable', sourceSize: 10, name: 'CSC',shape:'circle',color:'white' });
-        aladin.addCatalog(hips6);
+         hips6.hide();
+         aladin.addCatalog(hips6);
 
         var hips4 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/4FGL-DR4.vot', {onClick: 'showPopup', sourceSize: 10,  name:'4FGL',shape:'circle'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-         aladin.addCatalog(hips4);
+        hips4.hide(); 
+        aladin.addCatalog(hips4);
 
         var hips9 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/ATNF_NS.vot', {onClick: 'showPopup', sourceSize: 10,  name:'ATNF'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-         aladin.addCatalog(hips9);
+        hips9.hide(); 
+        aladin.addCatalog(hips9);
 
         var hips3 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/BlackCAT.vot', {onClick: 'showPopup', sourceSize: 10,  name:'BlackCAT'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-         aladin.addCatalog(hips3);
+        hips3.hide(); 
+        aladin.addCatalog(hips3);
         
         var hips10 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/FGL-aladin-lite-test/main/TeVCat.vot', {onClick: 'showPopup', sourceSize: 10,  name:'TeVCat'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
-          aladin.addCatalog(hips10);
+        hips10.hide();  
+        aladin.addCatalog(hips10);
 
         var hips7 = A.catalogFromURL('https://raw.githubusercontent.com/huiyang-astro/SNR_aladin-lite-example/main/files/catalogs/SNR.vot', {onClick: 'showPopup', sourceSize: 10,  name:'SNR'}); //,displayLabel: true, labelColumn: 'Class', labelColor: 'cyan', labelFont: '20px sans-serif', onClick: 'showTable',
           aladin.addCatalog(hips7);
@@ -197,5 +211,15 @@ Base
 
     });
 </script>
+
+
+<HR>
+Any comments are welcome to improve this visualization website by <A HREF="https://github.com/huiyang-astro/SNR_aladin-lite-example/issues/new">submitting an issue report</A>. 
+Survey images or catalogues available from <A HREF="https://aladin.cds.unistra.fr/hips/list">HiPS list aggregator</A> or any other HiPS database can be added easily.  
+<br/>
+This visualization tool is displayed by <A HREF="https://aladin.u-strasbg.fr/AladinLite">Aladin Lite</A>. 
+
+
+
 </body>
 </html>
