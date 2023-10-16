@@ -11,7 +11,7 @@
    <FIELD ID="Dist" arraysize="12" datatype="unicodeChar" name="Dist"/>
    <FIELD ID="Catalog" arraysize="17" datatype="unicodeChar" name="Catalog"/>
    <FIELD ID="Class" arraysize="7" datatype="unicodeChar" name="Class"/>
-   <FIELD ID="color" arraysize="6" datatype="unicodeChar" name="color"/>
+   <FIELD ID="color" arraysize="7" datatype="unicodeChar" name="color"/>
    <FIELD ID="CT" datatype="long" name="CT"/>
    <FIELD ID="significance" datatype="long" name="significance"/>
    <DATA>
@@ -71,8 +71,8 @@
       <TD>Binary</TD>
       <TD>2 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -83,8 +83,8 @@
       <TD>Binary</TD>
       <TD/>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -95,8 +95,8 @@
       <TD>Binary</TD>
       <TD>1.4 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -107,8 +107,8 @@
       <TD>Binary</TD>
       <TD/>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -119,8 +119,8 @@
       <TD>Binary</TD>
       <TD>2.3 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -131,8 +131,8 @@
       <TD>Binary</TD>
       <TD>2.7 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -143,8 +143,8 @@
       <TD>Binary</TD>
       <TD>2.5 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -155,8 +155,8 @@
       <TD>Binary</TD>
       <TD/>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -167,8 +167,8 @@
       <TD>Binary</TD>
       <TD>5.5 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -179,8 +179,8 @@
       <TD>Binary</TD>
       <TD>5.5 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -191,8 +191,8 @@
       <TD>Binary</TD>
       <TD>1.8 kpc</TD>
       <TD>Default Catalog</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -3587,8 +3587,8 @@
       <TD>XRB</TD>
       <TD>1.9 kpc</TD>
       <TD>Other Sources</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -3599,8 +3599,8 @@
       <TD>XRB</TD>
       <TD>8 kpc</TD>
       <TD>Other Sources</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -3611,8 +3611,8 @@
       <TD>XRB</TD>
       <TD>2.2 kpc</TD>
       <TD>Source Candidates</TD>
-      <TD>Others</TD>
-      <TD>orange</TD>
+      <TD>Binary</TD>
+      <TD>magenta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
