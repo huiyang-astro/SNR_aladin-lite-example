@@ -11,7 +11,7 @@
    <FIELD ID="Dist" arraysize="12" datatype="unicodeChar" name="Dist"/>
    <FIELD ID="Catalog" arraysize="17" datatype="unicodeChar" name="Catalog"/>
    <FIELD ID="Class" arraysize="7" datatype="unicodeChar" name="Class"/>
-   <FIELD ID="color" arraysize="11" datatype="unicodeChar" name="color"/>
+   <FIELD ID="color" arraysize="7" datatype="unicodeChar" name="color"/>
    <FIELD ID="CT" datatype="long" name="CT"/>
    <FIELD ID="significance" datatype="long" name="significance"/>
    <DATA>
@@ -72,7 +72,7 @@
       <TD>2 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -84,7 +84,7 @@
       <TD/>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -96,7 +96,7 @@
       <TD>1.4 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -108,7 +108,7 @@
       <TD/>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -120,7 +120,7 @@
       <TD>2.3 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -132,7 +132,7 @@
       <TD>2.7 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -144,7 +144,7 @@
       <TD>2.5 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -156,7 +156,7 @@
       <TD/>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -168,7 +168,7 @@
       <TD>5.5 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -180,7 +180,7 @@
       <TD>5.5 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -192,7 +192,7 @@
       <TD>1.8 kpc</TD>
       <TD>Default Catalog</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -3588,7 +3588,7 @@
       <TD>1.9 kpc</TD>
       <TD>Other Sources</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -3600,7 +3600,7 @@
       <TD>8 kpc</TD>
       <TD>Other Sources</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
@@ -3612,7 +3612,7 @@
       <TD>2.2 kpc</TD>
       <TD>Source Candidates</TD>
       <TD>Binary</TD>
-      <TD>deepskyblue</TD>
+      <TD>meganta</TD>
       <TD>10</TD>
       <TD>10</TD>
      </TR>
