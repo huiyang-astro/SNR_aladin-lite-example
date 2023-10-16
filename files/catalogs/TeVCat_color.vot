@@ -1,0 +1,3021 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Produced with astropy.io.votable version 5.1
+     http://www.astropy.org/ -->
+<VOTABLE version="1.4" xmlns="http://www.ivoa.net/xml/VOTable/v1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ivoa.net/xml/VOTable/v1.3 http://www.ivoa.net/xml/VOTable/VOTable-1.4.xsd">
+ <RESOURCE type="results">
+  <TABLE>
+   <FIELD ID="Name" arraysize="21" datatype="unicodeChar" name="Name"/>
+   <FIELD ID="ra" datatype="double" name="ra"/>
+   <FIELD ID="dec" datatype="double" name="dec"/>
+   <FIELD ID="Type" arraysize="22" datatype="unicodeChar" name="Type"/>
+   <FIELD ID="Dist" arraysize="12" datatype="unicodeChar" name="Dist"/>
+   <FIELD ID="Catalog" arraysize="17" datatype="unicodeChar" name="Catalog"/>
+   <FIELD ID="Class" arraysize="7" datatype="unicodeChar" name="Class"/>
+   <FIELD ID="color" arraysize="6" datatype="unicodeChar" name="color"/>
+   <DATA>
+    <TABLEDATA>
+     <TR>
+      <TD>IC 310</TD>
+      <TD>49.17916666666666</TD>
+      <TD>41.32472222222223</TD>
+      <TD>AGN (unknown type)</TD>
+      <TD>z = 0.0189</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0625-35</TD>
+      <TD>96.7425</TD>
+      <TD>-35.49722222222222</TD>
+      <TD>AGN (unknown type)</TD>
+      <TD>z = 0.05486</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>OJ 287</TD>
+      <TD>133.70458333333332</TD>
+      <TD>20.099691666666665</TD>
+      <TD>BL Lac (class unclear)</TD>
+      <TD>z = 0.3056</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>GB6 J1058+2817</TD>
+      <TD>164.6245620833333</TD>
+      <TD>28.29617</TD>
+      <TD>BL Lac (class unclear)</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>LS I +61 303</TD>
+      <TD>40.14166666666666</TD>
+      <TD>61.25694444444444</TD>
+      <TD>Binary</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>LMC P3</TD>
+      <TD>83.99999999999999</TD>
+      <TD>-67.58638888888889</TD>
+      <TD>Binary</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HESS J0632+057</TD>
+      <TD>98.25333333333332</TD>
+      <TD>5.7941666666666665</TD>
+      <TD>Binary</TD>
+      <TD>1.4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1018-589 A</TD>
+      <TD>154.74166666666667</TD>
+      <TD>-58.945277777777775</TD>
+      <TD>Binary</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Eta Carinae</TD>
+      <TD>161.14583333333331</TD>
+      <TD>-59.66572222222222</TD>
+      <TD>Binary</TD>
+      <TD>2.3 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>PSR B1259-63</TD>
+      <TD>195.70541666666665</TD>
+      <TD>-63.831388888888895</TD>
+      <TD>Binary</TD>
+      <TD>2.7 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>LS 5039</TD>
+      <TD>276.56249999999994</TD>
+      <TD>-14.825</TD>
+      <TD>Binary</TD>
+      <TD>2.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1832-093</TD>
+      <TD>278.2083333333333</TD>
+      <TD>-9.376666666666669</TD>
+      <TD>Binary</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>SS 433 w1</TD>
+      <TD>287.65416666666664</TD>
+      <TD>5.036944444444444</TD>
+      <TD>Binary</TD>
+      <TD>5.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>SS 433 e1</TD>
+      <TD>288.4041666666666</TD>
+      <TD>4.930000000000001</TD>
+      <TD>Binary</TD>
+      <TD>5.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>PSR J2032+4127</TD>
+      <TD>308.04166666666663</TD>
+      <TD>41.45944444444445</TD>
+      <TD>Binary</TD>
+      <TD>1.8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>TXS 0506+056</TD>
+      <TD>77.35416666666667</TD>
+      <TD>5.702500000000001</TD>
+      <TD>Blazar</TD>
+      <TD>z = 0.3365</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>S4 0954+65</TD>
+      <TD>149.6958333333333</TD>
+      <TD>65.56527777777778</TD>
+      <TD>Blazar</TD>
+      <TD>z = 0.3694</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 1413+135</TD>
+      <TD>213.995</TD>
+      <TD>13.339916666666667</TD>
+      <TD>Blazar</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RGB J2056+496</TD>
+      <TD>314.17791666666665</TD>
+      <TD>49.66861111111111</TD>
+      <TD>Blazar</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>AE Aquarii</TD>
+      <TD>310.04166666666663</TD>
+      <TD>-0.8711111111111112</TD>
+      <TD>Cat. Var.</TD>
+      <TD>0.102 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1640-465</TD>
+      <TD>250.15833333333333</TD>
+      <TD>-46.57305555555556</TD>
+      <TD>Composite SNR</TD>
+      <TD>8.6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SNR G015.4+00.1</TD>
+      <TD>274.52</TD>
+      <TD>-15.466944444444444</TD>
+      <TD>Composite SNR</TD>
+      <TD>4.8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1503-582</TD>
+      <TD>225.82916666666665</TD>
+      <TD>-58.26111111111111</TD>
+      <TD>DARK</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J2108+5157</TD>
+      <TD>317.15</TD>
+      <TD>51.95</TD>
+      <TD>DARK</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>NGC 1275</TD>
+      <TD>49.950416666666655</TD>
+      <TD>41.51166666666666</TD>
+      <TD>FRI</TD>
+      <TD>z = 0.017559</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>3C 264</TD>
+      <TD>176.27083333333331</TD>
+      <TD>19.60638888888889</TD>
+      <TD>FRI</TD>
+      <TD>z = 0.021718</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>M 87</TD>
+      <TD>187.69666666666663</TD>
+      <TD>12.3975</TD>
+      <TD>FRI</TD>
+      <TD>z = 0.0044</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>Centaurus A</TD>
+      <TD>201.37625</TD>
+      <TD>-43.00416666666667</TD>
+      <TD>FRI</TD>
+      <TD>z = 0.00183</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>S3 0218+35</TD>
+      <TD>35.27291666666666</TD>
+      <TD>35.93722222222222</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.954</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0346-27</TD>
+      <TD>57.15833333333333</TD>
+      <TD>-27.820555555555558</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.991</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0736+017</TD>
+      <TD>114.82083333333333</TD>
+      <TD>1.6033333333333335</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.18941</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>TON 0599</TD>
+      <TD>179.88249999999996</TD>
+      <TD>29.245555555555555</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.7247</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>4C +21.35</TD>
+      <TD>186.22666666666663</TD>
+      <TD>21.379444444444445</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.432</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>3C 279</TD>
+      <TD>194.04625</TD>
+      <TD>-5.789444444444444</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.5362</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>B2 1420+32</TD>
+      <TD>215.6265833333333</TD>
+      <TD>32.38623333333333</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.682</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 1441+25</TD>
+      <TD>220.9870833333333</TD>
+      <TD>25.028888888888886</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.939</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 1510-089</TD>
+      <TD>228.2175</TD>
+      <TD>-9.106</TD>
+      <TD>FSRQ</TD>
+      <TD>z = 0.361</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>GRB 180720B</TD>
+      <TD>0.5316666666666666</TD>
+      <TD>-2.935</TD>
+      <TD>GRB</TD>
+      <TD>z = 0.654</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>GRB 201216C</TD>
+      <TD>16.370333333333328</TD>
+      <TD>16.516111111111112</TD>
+      <TD>GRB</TD>
+      <TD>z = 1.1</TD>
+      <TD>Newly Announced</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>GRB 190829A</TD>
+      <TD>44.54379166666666</TD>
+      <TD>-8.957805555555554</TD>
+      <TD>GRB</TD>
+      <TD>z = 0.0785</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>GRB 190114C</TD>
+      <TD>54.504875</TD>
+      <TD>-26.946313888888888</TD>
+      <TD>GRB</TD>
+      <TD>z = 0.4245</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>GRB 160821B</TD>
+      <TD>279.9779583333333</TD>
+      <TD>62.39277777777778</TD>
+      <TD>GRB</TD>
+      <TD>z = 0.16</TD>
+      <TD>Source Candidates</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>GRB 221009A</TD>
+      <TD>288.26249999999993</TD>
+      <TD>19.8025</TD>
+      <TD>GRB</TD>
+      <TD>z = 0.151</TD>
+      <TD>Newly Announced</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>GRB 201015A</TD>
+      <TD>354.3184166666666</TD>
+      <TD>53.4155</TD>
+      <TD>GRB</TD>
+      <TD>z = 0.43</TD>
+      <TD>Source Candidates</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Cloud 877</TD>
+      <TD>245.4883333333333</TD>
+      <TD>-50.27080555555556</TD>
+      <TD>Giant Molecular Cloud</TD>
+      <TD>3.4 kpc</TD>
+      <TD>Newly Announced</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Terzan 5</TD>
+      <TD>266.95416666666665</TD>
+      <TD>-24.808333333333334</TD>
+      <TD>Globular Cluster</TD>
+      <TD>5.9 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>SHBL J001355.9-185406</TD>
+      <TD>3.4666666666666663</TD>
+      <TD>-18.891388888888887</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.095</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>KUV 00311-1938</TD>
+      <TD>8.4</TD>
+      <TD>-19.35</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0033+595</TD>
+      <TD>8.82</TD>
+      <TD>59.79</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.467</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RGB J0136+391</TD>
+      <TD>24.135416666666668</TD>
+      <TD>39.1</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RGB J0152+017</TD>
+      <TD>28.139583333333327</TD>
+      <TD>1.7778611111111111</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.08</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>TXS 0210+515</TD>
+      <TD>33.57458333333333</TD>
+      <TD>51.74777777777778</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.049</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0229+200</TD>
+      <TD>38.22166666666666</TD>
+      <TD>20.2725</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1396</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1RXS J023832.6-311658</TD>
+      <TD>39.63541666666666</TD>
+      <TD>-31.282777777777778</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.232</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0301-243</TD>
+      <TD>45.84787499999999</TD>
+      <TD>-24.126627777777777</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.2657</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RBS 0413</TD>
+      <TD>49.94583333333332</TD>
+      <TD>18.761666666666667</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.19</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0347-121</TD>
+      <TD>57.34583333333333</TD>
+      <TD>-11.977222222222222</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.188</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0414+009</TD>
+      <TD>64.22066666666665</TD>
+      <TD>1.089</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.287</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0447-439</TD>
+      <TD>72.36749999999998</TD>
+      <TD>-43.836666666666666</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.343</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0502+675</TD>
+      <TD>76.98416666666665</TD>
+      <TD>67.62333333333332</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.34</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0548-322</TD>
+      <TD>87.65999999999998</TD>
+      <TD>-32.27025</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.069</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RX J0648.7+1516</TD>
+      <TD>102.19</TD>
+      <TD>15.27</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.179</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0647+250</TD>
+      <TD>102.69374999999998</TD>
+      <TD>25.05</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RGB J0710+591</TD>
+      <TD>107.61</TD>
+      <TD>59.15</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.125</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PGC 2402248</TD>
+      <TD>113.36124999999998</TD>
+      <TD>51.89830555555555</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.065</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 0806+524</TD>
+      <TD>122.49583333333332</TD>
+      <TD>52.31666666666667</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.138</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1RXS J081201.8+023735</TD>
+      <TD>123.00774999999996</TD>
+      <TD>2.625861111111111</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1721</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RBS 0723</TD>
+      <TD>131.80374999999998</TD>
+      <TD>11.56388888888889</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.198</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>MRC 0910-208</TD>
+      <TD>138.25091666666663</TD>
+      <TD>-21.055861111111117</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.19802</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1RXS J101015.9-311909</TD>
+      <TD>152.56262499999997</TD>
+      <TD>-31.305111111111117</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.142639</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1011+496</TD>
+      <TD>153.76708333333332</TD>
+      <TD>49.43361111111111</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.212</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1101-232</TD>
+      <TD>165.90208333333334</TD>
+      <TD>-23.495833333333334</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.186</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>Markarian 421</TD>
+      <TD>166.07916666666665</TD>
+      <TD>38.19472222222222</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.031</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>Markarian 180</TD>
+      <TD>174.11</TD>
+      <TD>70.1575</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.045</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RX J1136.5+6737</TD>
+      <TD>174.12541666666664</TD>
+      <TD>67.61777777777777</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1342</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1215+303</TD>
+      <TD>184.4520833333333</TD>
+      <TD>30.101666666666667</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.131</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1218+304</TD>
+      <TD>185.3595833333333</TD>
+      <TD>30.191388888888888</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.182</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>MS 1221.8+2452</TD>
+      <TD>186.10083333333333</TD>
+      <TD>24.60666666666667</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.218</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1312-423</TD>
+      <TD>198.74374999999995</TD>
+      <TD>-42.596944444444446</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.105</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 1424+240</TD>
+      <TD>216.75</TD>
+      <TD>23.794444444444448</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>H 1426+428</TD>
+      <TD>217.1358333333333</TD>
+      <TD>42.6725</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.129</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1440+122</TD>
+      <TD>220.8125</TD>
+      <TD>12.003055555555555</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.163058</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 1440-389</TD>
+      <TD>221.00083333333328</TD>
+      <TD>-39.13916666666667</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1385</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>TXS 1515-273</TD>
+      <TD>229.51504166666663</TD>
+      <TD>-27.52622222222222</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1284</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PG 1553+113</TD>
+      <TD>238.93625</TD>
+      <TD>11.194722222222222</TD>
+      <TD>HBL</TD>
+      <TD>z = null</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>Markarian 501</TD>
+      <TD>253.4675</TD>
+      <TD>39.76027777777778</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.034</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>H 1722+119</TD>
+      <TD>261.2679166666666</TD>
+      <TD>11.870833333333334</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1727+502</TD>
+      <TD>262.0775</TD>
+      <TD>50.21944444444445</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.055</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1741+196</TD>
+      <TD>266.005</TD>
+      <TD>19.54638888888889</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.084</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1943+213</TD>
+      <TD>295.97916666666663</TD>
+      <TD>21.302222222222223</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1RXS J195815.6-301119</TD>
+      <TD>299.56208333333325</TD>
+      <TD>-30.186611111111112</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.119329</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 1959+650</TD>
+      <TD>299.99916666666667</TD>
+      <TD>65.14861111111112</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.048</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 2005-489</TD>
+      <TD>302.36249999999995</TD>
+      <TD>-48.83111111111111</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.071</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 2037+521</TD>
+      <TD>309.8479166666666</TD>
+      <TD>52.33055555555556</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.053</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RGB J2042+244</TD>
+      <TD>310.5249999999999</TD>
+      <TD>24.447861111111116</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 2155-304</TD>
+      <TD>329.7195833333333</TD>
+      <TD>-30.221666666666664</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.116</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>RGB J2243+203</TD>
+      <TD>340.9666666666666</TD>
+      <TD>20.32</TD>
+      <TD>HBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>B3 2247+381</TD>
+      <TD>342.5275</TD>
+      <TD>38.43277777777777</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1187</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 2322-409</TD>
+      <TD>351.19999999999993</TD>
+      <TD>-40.66</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.1736</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>1ES 2344+514</TD>
+      <TD>356.76666666666665</TD>
+      <TD>51.71361111111111</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.044</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>H 2356-309</TD>
+      <TD>359.78925</TD>
+      <TD>-30.622972222222224</TD>
+      <TD>HBL</TD>
+      <TD>z = 0.165</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>S2 0109+22</TD>
+      <TD>18.024166666666662</TD>
+      <TD>22.74416666666667</TD>
+      <TD>IBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>3C 66A</TD>
+      <TD>35.67333333333333</TD>
+      <TD>43.043194444444445</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.34</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>VER J0521+211</TD>
+      <TD>80.43749999999999</TD>
+      <TD>21.214277777777777</TD>
+      <TD>IBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>S5 0716+714</TD>
+      <TD>110.47249999999998</TD>
+      <TD>71.34333333333333</TD>
+      <TD>IBL</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>PKS 0903-57</TD>
+      <TD>136.22157916666663</TD>
+      <TD>-57.584939722222224</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.695</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>W Comae</TD>
+      <TD>185.3820833333333</TD>
+      <TD>28.23305555555556</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.102</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>S3 1227+25</TD>
+      <TD>187.55875</TD>
+      <TD>25.301944444444445</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.325</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>B2 1811+31</TD>
+      <TD>273.39667791666665</TD>
+      <TD>31.73822777777778</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.117</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J2001+435</TD>
+      <TD>300.315</TD>
+      <TD>43.879</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.1739</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>BL Lacertae</TD>
+      <TD>330.68041666666664</TD>
+      <TD>42.27777777777778</TD>
+      <TD>IBL</TD>
+      <TD>z = 0.069</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>AP Librae</TD>
+      <TD>229.42416666666665</TD>
+      <TD>-24.371944444444445</TD>
+      <TD>LBL</TD>
+      <TD>z = 0.049</TD>
+      <TD>Default Catalog</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>OT 081</TD>
+      <TD>267.88675</TD>
+      <TD>9.650202777777778</TD>
+      <TD>LBL</TD>
+      <TD>z = 0.322</TD>
+      <TD>Newly Announced</TD>
+      <TD>AGN</TD>
+      <TD>red</TD>
+     </TR>
+     <TR>
+      <TD>Westerlund 2</TD>
+      <TD>155.84999999999997</TD>
+      <TD>-57.79</TD>
+      <TD>Massive Star Cluster</TD>
+      <TD>8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Westerlund 1</TD>
+      <TD>251.7083333333333</TD>
+      <TD>-45.82</TD>
+      <TD>Massive Star Cluster</TD>
+      <TD>3.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1848-018</TD>
+      <TD>282.1208333333333</TD>
+      <TD>-1.7923055555555554</TD>
+      <TD>Massive Star Cluster</TD>
+      <TD>5.3 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>RS Ophiuchi</TD>
+      <TD>267.5548333333333</TD>
+      <TD>-6.707911111111112</TD>
+      <TD>Nova</TD>
+      <TD>4.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Crab Pulsar</TD>
+      <TD>83.63291666666665</TD>
+      <TD>22.0145</TD>
+      <TD>PSR</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Geminga Pulsar</TD>
+      <TD>98.47563749999998</TD>
+      <TD>17.770252777777777</TD>
+      <TD>PSR</TD>
+      <TD>0.25 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Geminga Pulsar</TD>
+      <TD>98.52083333333331</TD>
+      <TD>17.803611111111113</TD>
+      <TD>PSR</TD>
+      <TD>0.2 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Vela Pulsar</TD>
+      <TD>128.83625</TD>
+      <TD>-45.17644444444444</TD>
+      <TD>PSR</TD>
+      <TD>0.29 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>PSR B1509-58</TD>
+      <TD>228.48166666666663</TD>
+      <TD>-59.13583333333333</TD>
+      <TD>PSR</TD>
+      <TD>5.2 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>PSR B1706-44</TD>
+      <TD>257.4258333333333</TD>
+      <TD>-44.4825</TD>
+      <TD>PSR</TD>
+      <TD>2.5 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>PSR B1706-44</TD>
+      <TD>257.4275833333333</TD>
+      <TD>-44.48494444444445</TD>
+      <TD>PSR</TD>
+      <TD>2.3 kpc</TD>
+      <TD>Newly Announced</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>PSR B1957+20</TD>
+      <TD>299.9033333333333</TD>
+      <TD>20.804166666666667</TD>
+      <TD>PSR</TD>
+      <TD>1.5 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>CTA 1</TD>
+      <TD>1.6083333333333334</TD>
+      <TD>72.98361111111112</TD>
+      <TD>PWN</TD>
+      <TD>1.4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>3C 58</TD>
+      <TD>31.379166666666663</TD>
+      <TD>64.85</TD>
+      <TD>PWN</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Crab</TD>
+      <TD>83.62874999999998</TD>
+      <TD>22.01236111111111</TD>
+      <TD>PWN</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>LHA 120-N 157B</TD>
+      <TD>84.43333333333334</TD>
+      <TD>-69.16583333333334</TD>
+      <TD>PWN</TD>
+      <TD>50 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>0FGL J0631.8+1034</TD>
+      <TD>97.95508333333332</TD>
+      <TD>10.570194444444445</TD>
+      <TD>PWN</TD>
+      <TD>6.55 kpc</TD>
+      <TD>Source Candidates</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1018-589 B</TD>
+      <TD>154.12916666666666</TD>
+      <TD>-58.98</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1026-582</TD>
+      <TD>156.66</TD>
+      <TD>-58.2</TD>
+      <TD>PWN</TD>
+      <TD>2.3 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>SNR G292.2-00.5</TD>
+      <TD>169.74999999999997</TD>
+      <TD>-61.4</TD>
+      <TD>PWN</TD>
+      <TD>5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1303-631</TD>
+      <TD>195.7</TD>
+      <TD>-63.1775</TD>
+      <TD>PWN</TD>
+      <TD>6.6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1356-645</TD>
+      <TD>209</TD>
+      <TD>-64.5</TD>
+      <TD>PWN</TD>
+      <TD>2.4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Kookaburra (Rabbit)</TD>
+      <TD>214.51666666666665</TD>
+      <TD>-60.97527777777778</TD>
+      <TD>PWN</TD>
+      <TD>5.6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Kookaburra (PWN)</TD>
+      <TD>215.0375</TD>
+      <TD>-60.76</TD>
+      <TD>PWN</TD>
+      <TD>5.6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1458-608</TD>
+      <TD>224.9125</TD>
+      <TD>-60.780277777777776</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>MSH 15-52</TD>
+      <TD>228.5291666666666</TD>
+      <TD>-59.1575</TD>
+      <TD>PWN</TD>
+      <TD>5.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>SNR G327.1-01.1</TD>
+      <TD>238.65416666666667</TD>
+      <TD>-55.090833333333336</TD>
+      <TD>PWN</TD>
+      <TD>9 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1616-508</TD>
+      <TD>244.1</TD>
+      <TD>-50.9</TD>
+      <TD>PWN</TD>
+      <TD>6.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1632-478</TD>
+      <TD>248.04</TD>
+      <TD>-47.82</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1708-443</TD>
+      <TD>257.0458333333333</TD>
+      <TD>-44.333333333333336</TD>
+      <TD>PWN</TD>
+      <TD>2.3 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1718-385</TD>
+      <TD>259.52916666666664</TD>
+      <TD>-38.55</TD>
+      <TD>PWN</TD>
+      <TD>4.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>SNR G000.9+00.1</TD>
+      <TD>266.84666666666664</TD>
+      <TD>-28.151666666666664</TD>
+      <TD>PWN</TD>
+      <TD>8.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1813-178</TD>
+      <TD>273.4</TD>
+      <TD>-17.84</TD>
+      <TD>PWN</TD>
+      <TD>4.7 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1831-098</TD>
+      <TD>277.8541666666666</TD>
+      <TD>-9.9</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1833-105</TD>
+      <TD>278.3958333333333</TD>
+      <TD>-10.571666666666667</TD>
+      <TD>PWN</TD>
+      <TD>4.8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1837-069</TD>
+      <TD>279.41</TD>
+      <TD>-6.95</TD>
+      <TD>PWN</TD>
+      <TD>6.6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1846-029</TD>
+      <TD>281.6</TD>
+      <TD>-2.973888888888889</TD>
+      <TD>PWN</TD>
+      <TD>6.3 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>IGR J18490-0000</TD>
+      <TD>282.2333333333333</TD>
+      <TD>-0.0411111111111111</TD>
+      <TD>PWN</TD>
+      <TD>7 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J1857.2+0263</TD>
+      <TD>284.3041666666666</TD>
+      <TD>2.625277777777778</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>SNR G054.1+00.3</TD>
+      <TD>292.6333333333333</TD>
+      <TD>18.87</TD>
+      <TD>PWN</TD>
+      <TD>6.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1953+294</TD>
+      <TD>298.26</TD>
+      <TD>29.48</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>0FGL J1958.1+2848</TD>
+      <TD>299.53170833333326</TD>
+      <TD>28.80330555555556</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>MGRO J2019+37</TD>
+      <TD>304.64595833333334</TD>
+      <TD>36.833333333333336</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>0FGL J2021.5+4026</TD>
+      <TD>305.3990416666666</TD>
+      <TD>40.43911111111111</TD>
+      <TD>PWN</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>TeV J2032+4130</TD>
+      <TD>307.88749999999993</TD>
+      <TD>41.57722222222223</TD>
+      <TD>PWN</TD>
+      <TD>1.8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Boomerang</TD>
+      <TD>337.1833333333332</TD>
+      <TD>61.16666666666666</TD>
+      <TD>PWN</TD>
+      <TD>0.8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J0621+3755</TD>
+      <TD>95.46999999999998</TD>
+      <TD>37.92</TD>
+      <TD>PWN/TeV Halo</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Geminga</TD>
+      <TD>98.11666666666666</TD>
+      <TD>17.366666666666667</TD>
+      <TD>PWN/TeV Halo</TD>
+      <TD>0.25 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Vela X</TD>
+      <TD>128.75</TD>
+      <TD>-45.6</TD>
+      <TD>PWN/TeV Halo</TD>
+      <TD>0.29 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1825-137</TD>
+      <TD>276.45416666666665</TD>
+      <TD>-13.77638888888889</TD>
+      <TD>PWN/TeV Halo</TD>
+      <TD>3.9 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>PWN/PSR</TD>
+      <TD>lime</TD>
+     </TR>
+     <TR>
+      <TD>Kepler's SNR</TD>
+      <TD>262.67</TD>
+      <TD>-21.48638888888889</TD>
+      <TD>SNR</TD>
+      <TD>5 kpc</TD>
+      <TD>Source Candidates</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SNR G004.8+6.2</TD>
+      <TD>263.35</TD>
+      <TD>-21.566666666666663</TD>
+      <TD>SNR</TD>
+      <TD>15 kpc</TD>
+      <TD>Source Candidates</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>LMC N132D</TD>
+      <TD>81.19583333333334</TD>
+      <TD>-69.64722222222223</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>50 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SNR G318.2+00.1</TD>
+      <TD>224.44166666666663</TD>
+      <TD>-59.46666666666667</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>3.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>CTB 37A</TD>
+      <TD>258.5625</TD>
+      <TD>-38.524166666666666</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>7.9 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SNR G349.7+00.2</TD>
+      <TD>259.49083333333334</TD>
+      <TD>-37.44433333333333</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>11.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1745-303</TD>
+      <TD>266.25875</TD>
+      <TD>-30.370555555555555</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1800-240C</TD>
+      <TD>269.7149999999999</TD>
+      <TD>-24.052</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>2 kpc</TD>
+      <TD>Source Candidates</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1800-240B</TD>
+      <TD>270.11</TD>
+      <TD>-24.039</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>W 28</TD>
+      <TD>270.4258333333333</TD>
+      <TD>-23.335</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1800-240A</TD>
+      <TD>270.4908333333333</TD>
+      <TD>-23.962</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>W 49B</TD>
+      <TD>287.7804166666666</TD>
+      <TD>9.16027777777778</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>11.3 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>W 51</TD>
+      <TD>290.73</TD>
+      <TD>14.191</TD>
+      <TD>SNR/Molec. Cloud</TD>
+      <TD>5.4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>Tycho</TD>
+      <TD>6.34</TD>
+      <TD>64.13</TD>
+      <TD>Shell</TD>
+      <TD>3.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>IC 443</TD>
+      <TD>94.2125</TD>
+      <TD>22.503055555555555</TD>
+      <TD>Shell</TD>
+      <TD>1.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>RX J0852.0-4622</TD>
+      <TD>133</TD>
+      <TD>-46.36666666666667</TD>
+      <TD>Shell</TD>
+      <TD>0.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>RCW 86</TD>
+      <TD>220.759</TD>
+      <TD>-62.44888888888889</TD>
+      <TD>Shell</TD>
+      <TD>2.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SN 1006 SW</TD>
+      <TD>225.5133333333333</TD>
+      <TD>-41.11805555555556</TD>
+      <TD>Shell</TD>
+      <TD>2.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SN 1006</TD>
+      <TD>225.7083333333333</TD>
+      <TD>-41.94166666666666</TD>
+      <TD>Shell</TD>
+      <TD>2.18 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SN 1006 NE</TD>
+      <TD>226.01416666666665</TD>
+      <TD>-41.80305555555555</TD>
+      <TD>Shell</TD>
+      <TD>2.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1534-571</TD>
+      <TD>233.5</TD>
+      <TD>-57.1</TD>
+      <TD>Shell</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1614-518</TD>
+      <TD>243.58</TD>
+      <TD>-51.82</TD>
+      <TD>Shell</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>RX J1713.7-3946</TD>
+      <TD>258.39</TD>
+      <TD>-39.76</TD>
+      <TD>Shell</TD>
+      <TD>1 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>CTB 37B</TD>
+      <TD>258.4899999999999</TD>
+      <TD>-38.2</TD>
+      <TD>Shell</TD>
+      <TD>13.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1731-347</TD>
+      <TD>263.0125</TD>
+      <TD>-34.755</TD>
+      <TD>Shell</TD>
+      <TD>3.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1912+101</TD>
+      <TD>288.2041666666666</TD>
+      <TD>10.151666666666667</TD>
+      <TD>Shell</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>0FGL J1954.4+2838</TD>
+      <TD>298.61445833333323</TD>
+      <TD>28.6485</TD>
+      <TD>Shell</TD>
+      <TD>9.2 kpc</TD>
+      <TD>Source Candidates</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>SNR G106.3+02.7</TD>
+      <TD>336.9958333333333</TD>
+      <TD>60.87694444444445</TD>
+      <TD>Shell</TD>
+      <TD>0.8 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>Cassiopeia A</TD>
+      <TD>350.80749999999995</TD>
+      <TD>58.80722222222222</TD>
+      <TD>Shell</TD>
+      <TD>3.4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>SNR</TD>
+      <TD>cyan</TD>
+     </TR>
+     <TR>
+      <TD>W49A</TD>
+      <TD>287.614375</TD>
+      <TD>9.190277777777778</TD>
+      <TD>Star Forming Region</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>NGC 253</TD>
+      <TD>11.775</TD>
+      <TD>-25.309722222222224</TD>
+      <TD>Starburst</TD>
+      <TD>2500 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>NGC 253</TD>
+      <TD>11.885583333333331</TD>
+      <TD>-25.29038888888889</TD>
+      <TD>Starburst</TD>
+      <TD>2500 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>M 82</TD>
+      <TD>148.9695833333333</TD>
+      <TD>69.67944444444444</TD>
+      <TD>Starburst</TD>
+      <TD>3900 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>30 Dor C</TD>
+      <TD>83.97916666666664</TD>
+      <TD>-69.18611111111112</TD>
+      <TD>Superbubble</TD>
+      <TD>50 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>ARGO J2031+4157</TD>
+      <TD>307.79999999999995</TD>
+      <TD>42.5</TD>
+      <TD>Superbubble</TD>
+      <TD>1.4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HAWC J0543+233</TD>
+      <TD>85.77999999999999</TD>
+      <TD>23.4</TD>
+      <TD>TeV Halo</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>HAWC J0635+070</TD>
+      <TD>98.71</TD>
+      <TD>7</TD>
+      <TD>TeV Halo</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J0700+143</TD>
+      <TD>105.12</TD>
+      <TD>14.32</TD>
+      <TD>TeV Halo</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J0223+403</TD>
+      <TD>35.8</TD>
+      <TD>43.01166666666666</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J0341+5258</TD>
+      <TD>55.34</TD>
+      <TD>52.97</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>ARGO J0409-0627</TD>
+      <TD>62.35</TD>
+      <TD>-6.45</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J0621+382</TD>
+      <TD>95.31916666666665</TD>
+      <TD>38.21138888888889</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J0630+186</TD>
+      <TD>97.69124999999998</TD>
+      <TD>18.68111111111111</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J0631+107</TD>
+      <TD>97.78083333333332</TD>
+      <TD>10.731388888888889</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J0633+191</TD>
+      <TD>98.44249999999998</TD>
+      <TD>19.113611111111112</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J0819+157</TD>
+      <TD>124.97999999999998</TD>
+      <TD>15.79</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>Vela Region</TD>
+      <TD>128.4125</TD>
+      <TD>-45.00277777777778</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Other Sources</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1040+308</TD>
+      <TD>160.21999999999997</TD>
+      <TD>30.87</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1309-054</TD>
+      <TD>197.31</TD>
+      <TD>-5.49</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1427-608</TD>
+      <TD>216.96666666666664</TD>
+      <TD>-60.85</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1507-622</TD>
+      <TD>226.72</TD>
+      <TD>-62.35</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1626-490</TD>
+      <TD>246.51666666666665</TD>
+      <TD>-49.08694444444445</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1634-472</TD>
+      <TD>248.73999999999995</TD>
+      <TD>-47.27</TD>
+      <TD>UNID</TD>
+      <TD>8.6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1641-463</TD>
+      <TD>250.25875</TD>
+      <TD>-46.30361111111111</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1702-420</TD>
+      <TD>255.6833333333333</TD>
+      <TD>-42.01583333333333</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1708-410</TD>
+      <TD>257.1</TD>
+      <TD>-41.09</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1729-345</TD>
+      <TD>262.3958333333333</TD>
+      <TD>-34.53944444444444</TD>
+      <TD>UNID</TD>
+      <TD>3.2 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1739+099</TD>
+      <TD>264.9929166666666</TD>
+      <TD>9.930277777777777</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1741-302</TD>
+      <TD>265.3141666666666</TD>
+      <TD>-30.37705555555556</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1743+149</TD>
+      <TD>265.82583333333326</TD>
+      <TD>14.936111111111112</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>Galactic Centre Ridge</TD>
+      <TD>266.415</TD>
+      <TD>-29.00611111111111</TD>
+      <TD>UNID</TD>
+      <TD>8.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>Galactic Centre</TD>
+      <TD>266.415</TD>
+      <TD>-29.00611111111111</TD>
+      <TD>UNID</TD>
+      <TD>8.5 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1746-308</TD>
+      <TD>266.571375</TD>
+      <TD>-30.841118</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>VER J1746-289</TD>
+      <TD>266.582125</TD>
+      <TD>-28.96622222222222</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1746-285</TD>
+      <TD>266.5994166666666</TD>
+      <TD>-28.87594444444445</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J1746.4-2853</TD>
+      <TD>266.6041666666666</TD>
+      <TD>-28.881944444444446</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1804-216</TD>
+      <TD>271.12999999999994</TD>
+      <TD>-21.7</TD>
+      <TD>UNID</TD>
+      <TD>6 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1808-204</TD>
+      <TD>272.15541666666667</TD>
+      <TD>-20.42675</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1809-193</TD>
+      <TD>272.62916666666666</TD>
+      <TD>-19.3</TD>
+      <TD>UNID</TD>
+      <TD>3.7 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1813-126</TD>
+      <TD>273.34025</TD>
+      <TD>-12.687111111111111</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1814-173</TD>
+      <TD>273.52</TD>
+      <TD>-17.310000000000002</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1819-150*</TD>
+      <TD>274.8299999999999</TD>
+      <TD>-15.06</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1825-1326</TD>
+      <TD>276.45</TD>
+      <TD>-13.45</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1825-134</TD>
+      <TD>276.46</TD>
+      <TD>-13.4</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1826-130</TD>
+      <TD>276.509</TD>
+      <TD>-13.066666666666666</TD>
+      <TD>UNID</TD>
+      <TD>4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1828-099</TD>
+      <TD>277.2446666666666</TD>
+      <TD>-9.992722222222222</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1829+070</TD>
+      <TD>277.34</TD>
+      <TD>7.03</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1832-085</TD>
+      <TD>278.125</TD>
+      <TD>-8.511388888888888</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1834-087</TD>
+      <TD>278.69</TD>
+      <TD>-8.76</TD>
+      <TD>UNID</TD>
+      <TD>4 kpc</TD>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J1835-069</TD>
+      <TD>278.8599999999999</TD>
+      <TD>-6.94</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J1837-073</TD>
+      <TD>279.34</TD>
+      <TD>-7.28</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1837-065</TD>
+      <TD>279.36</TD>
+      <TD>-6.58</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1839-0545</TD>
+      <TD>279.94999999999993</TD>
+      <TD>-5.75</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1841-055</TD>
+      <TD>280.2291666666667</TD>
+      <TD>-5.55</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>1HWC J1842-046c</TD>
+      <TD>280.49999999999994</TD>
+      <TD>-4.6</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1843-0338</TD>
+      <TD>280.74999999999994</TD>
+      <TD>-3.65</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1843-033</TD>
+      <TD>280.94999999999993</TD>
+      <TD>-3.553888888888889</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>0FGL J1844.1-0335</TD>
+      <TD>281.03695833333336</TD>
+      <TD>-3.589277777777778</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1844-032</TD>
+      <TD>281.06999999999994</TD>
+      <TD>-3.25</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1844-001</TD>
+      <TD>281.07666666666665</TD>
+      <TD>-0.1897222222222222</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1844-030</TD>
+      <TD>281.17175</TD>
+      <TD>-3.0929444444444445</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Newly Announced</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1849-0003</TD>
+      <TD>282.35</TD>
+      <TD>-0.05</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1852+013*</TD>
+      <TD>283.01</TD>
+      <TD>1.38</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1852-000</TD>
+      <TD>283.0583333333333</TD>
+      <TD>0.0988888888888888</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1857+026</TD>
+      <TD>284.2958333333333</TD>
+      <TD>2.6666666666666665</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1857+051</TD>
+      <TD>284.3295833333333</TD>
+      <TD>5.189166666666667</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MAGIC J1857.6+0297</TD>
+      <TD>284.39833333333326</TD>
+      <TD>2.9672222222222224</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>HESS J1858+020</TD>
+      <TD>284.5833333333333</TD>
+      <TD>2.0900000000000003</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>0FGL J1900.0+0356</TD>
+      <TD>285.0092083333333</TD>
+      <TD>3.94675</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1902+048*</TD>
+      <TD>285.51</TD>
+      <TD>4.859999999999999</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>1HWC J1904+080c</TD>
+      <TD>286.1</TD>
+      <TD>8</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1907+084*</TD>
+      <TD>286.79</TD>
+      <TD>8.5</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MGRO J1908+06</TD>
+      <TD>286.975</TD>
+      <TD>6.268611111111111</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1908+0621</TD>
+      <TD>287.04999999999995</TD>
+      <TD>6.35</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>ARGO J1910+0720</TD>
+      <TD>287.65000000000003</TD>
+      <TD>7.35</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Source Candidates</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1914+117*</TD>
+      <TD>288.68</TD>
+      <TD>11.72</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1915+164</TD>
+      <TD>288.76333333333326</TD>
+      <TD>16.410277777777775</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1937+193</TD>
+      <TD>289.6666666666667</TD>
+      <TD>19.62602777777778</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1918+159</TD>
+      <TD>289.68875</TD>
+      <TD>15.908611111111112</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1921+131</TD>
+      <TD>290.3</TD>
+      <TD>13.13</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1923+169</TD>
+      <TD>290.78916666666663</TD>
+      <TD>16.955277777777777</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1928+177</TD>
+      <TD>292.15</TD>
+      <TD>17.779999999999998</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1929+1745</TD>
+      <TD>292.25</TD>
+      <TD>17.75</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1935+213</TD>
+      <TD>293.95333333333326</TD>
+      <TD>21.385</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1936+223</TD>
+      <TD>294.085</TD>
+      <TD>22.301666666666662</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1938+238</TD>
+      <TD>294.7416666666666</TD>
+      <TD>23.81</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1949+244</TD>
+      <TD>297.42</TD>
+      <TD>24.46</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J1951+266</TD>
+      <TD>297.9033333333333</TD>
+      <TD>26.61305555555556</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J1955+285</TD>
+      <TD>298.83</TD>
+      <TD>28.59</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J1956+2845</TD>
+      <TD>299.04999999999995</TD>
+      <TD>28.75</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J2005+311</TD>
+      <TD>301.46374999999995</TD>
+      <TD>31.165555555555557</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>2HWC J2006+341</TD>
+      <TD>301.55</TD>
+      <TD>34.18</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J2010+345</TD>
+      <TD>302.6975</TD>
+      <TD>34.543055555555554</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>VER J2016+371</TD>
+      <TD>304.00833333333327</TD>
+      <TD>37.19777777777777</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J2018+3651</TD>
+      <TD>304.74999999999994</TD>
+      <TD>36.85</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>VER J2019+368</TD>
+      <TD>304.85416666666663</TD>
+      <TD>36.803888888888885</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MilagroDiffuse</TD>
+      <TD>304.99999999999994</TD>
+      <TD>38</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>VER J2019+407</TD>
+      <TD>305.02</TD>
+      <TD>40.75722222222223</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J2022+431</TD>
+      <TD>305.52125</TD>
+      <TD>43.15638888888888</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J2023+324</TD>
+      <TD>305.81291666666664</TD>
+      <TD>32.43944444444444</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>MGRO J2031+41</TD>
+      <TD>307.17999999999995</TD>
+      <TD>41.31</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J2032+4102</TD>
+      <TD>308.05</TD>
+      <TD>41.05</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>3HWC J2043+443</TD>
+      <TD>310.8816666666666</TD>
+      <TD>44.29861111111111</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>LHAASO J2226+6057</TD>
+      <TD>336.74999999999994</TD>
+      <TD>60.95</TD>
+      <TD>UNID</TD>
+      <TD/>
+      <TD>Default Catalog</TD>
+      <TD>UNID</TD>
+      <TD>grey</TD>
+     </TR>
+     <TR>
+      <TD>Vela X-1</TD>
+      <TD>135.5283333333333</TD>
+      <TD>-40.55472222222222</TD>
+      <TD>XRB</TD>
+      <TD>1.9 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Centaurus X3</TD>
+      <TD>170.31249999999997</TD>
+      <TD>-60.623333333333335</TD>
+      <TD>XRB</TD>
+      <TD>8 kpc</TD>
+      <TD>Other Sources</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+     <TR>
+      <TD>Cygnus X-1</TD>
+      <TD>299.5904166666666</TD>
+      <TD>35.20141111111111</TD>
+      <TD>XRB</TD>
+      <TD>2.2 kpc</TD>
+      <TD>Source Candidates</TD>
+      <TD>Others</TD>
+      <TD>orange</TD>
+     </TR>
+    </TABLEDATA>
+   </DATA>
+  </TABLE>
+ </RESOURCE>
+</VOTABLE>
